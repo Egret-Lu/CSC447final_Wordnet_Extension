@@ -108,7 +108,7 @@ def verbnet_classes(self):
     """
     Expand Wordnet with microwordnet
     """
-    if not hasattr(self.__class__, 'microwordnet_reader'):
+    if not hasattr(self.__class__, 'verbnet_reader'):
         self.__class__.verbnet_reader = VerbnetCorpusReader()
     return self.__class__.verbnet_reader.get_classes(self.name() )
 

@@ -25,10 +25,10 @@ This project uses the following Python libraries
 * `advertools`: Online marketing productivity and analysis tools
 * `bs4`: Python library for pulling data out of HTML and XML files
 * `nltk`: The Natural Language Toolkit (NLTK)
-## Wordnet-Verb Extension
-It's an extension of WordNet API to analyze the sentiment score of WordNet 
-	```python
-    #!/usr/bin/env python3
+## Wordnet-Verbnet Extension
+It's an extension of WordNet API to Verbnet. Currently includes frames and roles of each verbnet classes
+	```
+
 	from nltk.corpus import wordnet as wn
 	
 	import verbnet
@@ -38,10 +38,13 @@ It's an extension of WordNet API to analyze the sentiment score of WordNet
     print(encourage.vn_classes())
     #get frame list for the first class of encourage.v.02 which is accept-77
     print(encourage.vn_classes()[0].get_frames())
+	#get themrole list for the first class of encourage.v.02
+	print(encourage.vn_classes()[0].get_roles())
+	```
 ## Wordnet-Senti Extension
 It's an extension of WordNet API to analyze the sentiment score of WordNet 
-	```python
-    #!/usr/bin/env python3
+	```
+
 	from nltk.corpus import wordnet as wn
 	
 	import sentiwordnet
@@ -50,7 +53,8 @@ It's an extension of WordNet API to analyze the sentiment score of WordNet
 	#get score from sentiment wordnet
     print(f'sentiment score of {good.name()}: {good.senti()}')
 	#get score from Micro sentiment wordnet
-    print(f'micro sentiment score of {good.name()}: {good.micro_senti()}')	
+    print(f'micro sentiment score of {good.name()}: {good.micro_senti()}')
+	```
 
 ## Emoji Extension
 ### Emoji Generation
@@ -66,11 +70,13 @@ Scrap the occurrence of each emoji character from "http://emojitracker.com/"
 ### Emoji SentiWordnet
 
 Simulate the structure of `nltk.corpus.reader.sentiwordnet`. Can be seen as a extention of sentiwordnet.
-    ```python
-    #!/usr/bin/env python3
+	```
 
-    from EmojiSentiWordnet.sentiwordnet import *
+	from EmojiSentiWordnet.sentiwordnet import *
 	esw=mojiSentiWordnet()
+	```
+
+
 
 ### Sample use in Sentiment Analysis
 File `Sample Use on Sentimental Analysis (Logistic Regression).pdf` shows a sample use of the wordnet on sentiment analysis.
