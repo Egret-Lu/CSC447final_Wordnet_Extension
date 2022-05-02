@@ -20,7 +20,7 @@ The most important files are:
 ## Requirements
 
 This project uses the following Python libraries
-
+* `verbnet`: Uncompress the verbnet file first from verbnet-3.2.tar.gz
 * `emoji` : Emoji corpus in prthon
 * `advertools`: Online marketing productivity and analysis tools
 * `bs4`: Python library for pulling data out of HTML and XML files
