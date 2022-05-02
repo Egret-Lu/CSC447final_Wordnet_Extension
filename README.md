@@ -28,16 +28,15 @@ This project uses the following Python libraries
 ## Wordnet-Verbnet Extension
 It's an extension of WordNet API to Verbnet. Currently includes frames and roles of each verbnet classes
 	```
-
 	from nltk.corpus import wordnet as wn
-	
+
 	import verbnet
-	
-    encourage = wn.synset('encourage.v.02')
-    #get verbnet class list for encourage.v.02
-    print(encourage.vn_classes())
-    #get frame list for the first class of encourage.v.02 which is accept-77
-    print(encourage.vn_classes()[0].get_frames())
+
+	encourage = wn.synset('encourage.v.02')
+	#get verbnet class list for encourage.v.02
+	print(encourage.vn_classes())
+	#get frame list for the first class of encourage.v.02 which is accept-77
+	print(encourage.vn_classes()[0].get_frames())
 	#get themrole list for the first class of encourage.v.02
 	print(encourage.vn_classes()[0].get_roles())
 	```
