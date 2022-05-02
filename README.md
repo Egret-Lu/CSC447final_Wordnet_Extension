@@ -28,6 +28,7 @@ This project uses the following Python libraries
 ## Wordnet-Verbnet Extension
 It's an extension of WordNet API to Verbnet. Currently includes frames and roles of each verbnet classes
 	```
+	
 	from nltk.corpus import wordnet as wn
 
 	import verbnet
