@@ -83,6 +83,6 @@ File `Sample Use on Sentimental Analysis (Logistic Regression).pdf` shows a samp
 ![alt text](sample_face.png "Sample use on cry emoji")
 ![alt text](approvement.png "Sample use on machine learning")
 
-##Future Work
+## Future Work
 
 * Connect Wordnet with Framenet
