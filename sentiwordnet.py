@@ -4,17 +4,6 @@ from nltk.corpus.reader.wordnet import Synset
 from collections import defaultdict
 import os
 import json
-def get_pos(text):
-    '''
-    from pos+offest to pos,offset
-    v1809321 -- 'v',1809321
-    '''
-    try:
-        pos=text[0]
-        offset=int(text[1:])
-        return pos,offset
-    except:
-        return None
 class SentiWordnetCorpusReader():
     """
     Corpus Reader for SentiWordnet
@@ -35,15 +24,14 @@ class SentiWordnetCorpusReader():
             data=json.load(f)
 
         for text,scores in data.items():
-            pos,offset=get_pos(text)
-            self.sentiwordnet[pos,offset]=scores
+            self.sentiwordnet[text]=scores
 
-    def get_score(self,pos,offset):
+    def get_score(self,text):
         """
         Get sentiment of synset by offset and part of speech
         """
         try:
-            return self.sentiwordnet[pos,offset]
+            return self.sentiwordnet[text]
         except:
             return None
 
@@ -67,15 +55,14 @@ class MicroWordnetCorpusReader():
             data=json.load(f)
 
         for text,scores in data.items():
-            pos,offset=get_pos(text)
-            self.microwordnet[pos,offset]=scores
+            self.microwordnet[text]=scores
 
-    def get_score(self, pos,offset):
+    def get_score(self,text):
         """
         Get sentiment of synset by offset and part of speech
         """
         try:
-            return self.microwordnet[pos,offset]
+            return self.microwordnet[text]
         except:
             return None
 
@@ -88,7 +75,7 @@ def sentiwordnet_sentiment(self):
     """
     if not hasattr(self.__class__, 'sentiwordnet_reader'):
         self.__class__.sentiwordnet_reader = SentiWordnetCorpusReader()
-    return self.__class__.sentiwordnet_reader.get_score(self.pos(),self.offset() )
+    return self.__class__.sentiwordnet_reader.get_score(self.name() )
 
 def microwordnet_sentiment(self):
     """
@@ -97,7 +84,7 @@ def microwordnet_sentiment(self):
     if not hasattr(self.__class__, 'microwordnet_reader'):
         self.__class__.microwordnet_reader = MicroWordnetCorpusReader()
 
-    return self.__class__.microwordnet_reader.get_score(self.pos(),self.offset() )
+    return self.__class__.microwordnet_reader.get_score(self.name() )
 
 #Expand
 Synset.senti = sentiwordnet_sentiment

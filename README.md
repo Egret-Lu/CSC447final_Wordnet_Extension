@@ -1,14 +1,14 @@
 # Wordnet Extension
 
-This project implements a custom algorithm to extend Wordnet from external resources. Currently, I only connect it to 2 senti wordnet and expand emoji characters. This has already been applied to my sentiment analysis homework for machine learning. I also plan to connect it to the Verbnet and this will be my future work. The main purpose is to incorporate as much information as possible into the existing wordnet. Here we try the method on corpus from "microWNOp" and "SentiWordNet v3.0.0". I also construct a emoji corpus to append emoji character to wordnet.
+This project implements a custom algorithm to extend Wordnet from external resources. Currently, I only connect it to 2 senti wordnet , verbnet and expand emoji characters. This has already been applied to my sentiment analysis homework for machine learning courses. I also plan to connect it to the Framenet and this will be my future work. The main purpose is to incorporate as much information as possible into the existing wordnet. Here we try the method on corpus from "microWNOp", "SentiWordNet v3.0.0"  and "Verbnet". I also construct a emoji corpus to append emoji character to wordnet.
 
 It was fully developed in `Python` and it is inspired by similar projects seen on `Github` .
 
 The most important files are:
 
-* `gen_net.py` : Generate json file for the corpus resources. Resources are saved in `sentiwordnets`
+* `gen_net.py` : Generate json file for the corpus resources. Resources are saved in `wordnets`
 * `sentiwordnet.py`: Extend Wordnet with Sentiwordnet and Micro Wordnet
-
+* `verbnet.py`: Extend Wordnet with Verbnet. Enable to get verbnet class list for each available verb. The class object includes roles and frame of each verbnet class. Index can be found in [Verbnet](https://uvi.colorado.edu/class_hierarchy)
 * `gen_emoji.py` : Generate statistical sentiment score for each emoji character.
 
 * `sentiwordnet.py` : Build up a Wordnet for the emoji character. For each character
@@ -25,8 +25,20 @@ This project uses the following Python libraries
 * `advertools`: Online marketing productivity and analysis tools
 * `bs4`: Python library for pulling data out of HTML and XML files
 * `nltk`: The Natural Language Toolkit (NLTK)
-
-## Wordnet Extension
+## Wordnet-Verb Extension
+It's an extension of WordNet API to analyze the sentiment score of WordNet 
+	```python
+    #!/usr/bin/env python3
+	from nltk.corpus import wordnet as wn
+	
+	import verbnet
+	
+    encourage = wn.synset('encourage.v.02')
+    #get verbnet class list for encourage.v.02
+    print(encourage.vn_classes())
+    #get frame list for the first class of encourage.v.02 which is accept-77
+    print(encourage.vn_classes()[0].get_frames())
+## Wordnet-Senti Extension
 It's an extension of WordNet API to analyze the sentiment score of WordNet 
 	```python
     #!/usr/bin/env python3
@@ -67,6 +79,4 @@ File `Sample Use on Sentimental Analysis (Logistic Regression).pdf` shows a samp
 
 ##Future Work
 
-* Connect Wordnet with Verbnet
-	* The Verbnet is in xml format. Thus I will need to scrap information from the files. I will try to convert into a json dict and apply the extension module which I have completed in this project.
 * Connect Wordnet with Framenet

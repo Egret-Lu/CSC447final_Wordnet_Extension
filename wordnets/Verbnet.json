@@ -1,0 +1,9078 @@
+{
+    "accept.v.04": [
+        "accept-77.xml"
+    ],
+    "accept.v.07": [
+        "accept-77.xml"
+    ],
+    "sympathize.v.02": [
+        "accept-77.xml",
+        "empathize-88.2.xml",
+        "empathize-88.2.xml"
+    ],
+    "promote.v.01": [
+        "accept-77.xml",
+        "promote-102.xml",
+        "promote-102.xml",
+        "promote-102.xml",
+        "promote-102.xml",
+        "promote-102.xml"
+    ],
+    "encourage.v.02": [
+        "accept-77.xml",
+        "advise-37.9.xml",
+        "amuse-31.1.xml"
+    ],
+    "deter.v.01": [
+        "accept-77.xml",
+        "forbid-67.xml",
+        "forbid-67.xml"
+    ],
+    "discourage.v.02": [
+        "accept-77.xml",
+        "amuse-31.1.xml"
+    ],
+    "repent.v.01": [
+        "accept-77.xml"
+    ],
+    "repent.v.02": [
+        "accept-77.xml",
+        "accept-77.xml",
+        "admire-31.2.xml"
+    ],
+    "assent.v.01": [
+        "acquiesce-95.xml",
+        "acquiesce-95.xml"
+    ],
+    "submit.v.03": [
+        "acquiesce-95.xml"
+    ],
+    "submit.v.06": [
+        "acquiesce-95.xml",
+        "acquiesce-95.xml",
+        "acquiesce-95.xml",
+        "acquiesce-95.xml"
+    ],
+    "yield.v.13": [
+        "acquiesce-95.xml",
+        "acquiesce-95.xml",
+        "acquiesce-95.xml"
+    ],
+    "give_way.v.03": [
+        "acquiesce-95.xml"
+    ],
+    "concede.v.03": [
+        "acquiesce-95.xml"
+    ],
+    "yield.v.12": [
+        "acquiesce-95.xml"
+    ],
+    "capitulate.v.01": [
+        "acquiesce-95.xml"
+    ],
+    "addict.v.01": [
+        "addict-96.xml"
+    ],
+    "bias.v.01": [
+        "addict-96.xml"
+    ],
+    "dispose.v.03": [
+        "addict-96.xml",
+        "addict-96.xml"
+    ],
+    "incline.v.05": [
+        "addict-96.xml"
+    ],
+    "predispose.v.01": [
+        "addict-96.xml"
+    ],
+    "adjust.v.03": [
+        "adjust-26.9.xml",
+        "adjust-26.9.xml",
+        "adjust-26.9.xml"
+    ],
+    "adapt.v.01": [
+        "adjust-26.9.xml"
+    ],
+    "accommodate.v.07": [
+        "adjust-26.9.xml"
+    ],
+    "gear.v.01": [
+        "adjust-26.9.xml"
+    ],
+    "fit.v.05": [
+        "adjust-26.9.xml"
+    ],
+    "readjust.v.01": [
+        "adjust-26.9.xml",
+        "adjust-26.9.xml"
+    ],
+    "assimilate.v.02": [
+        "adjust-26.9.xml"
+    ],
+    "admire.v.01": [
+        "admire-31.2.xml"
+    ],
+    "adore.v.01": [
+        "admire-31.2.xml"
+    ],
+    "appreciate.v.01": [
+        "admire-31.2.xml"
+    ],
+    "prize.v.01": [
+        "admire-31.2.xml",
+        "admire-31.2.xml",
+        "admire-31.2.xml",
+        "admire-31.2.xml"
+    ],
+    "care_for.v.02": [
+        "admire-31.2.xml",
+        "admire-31.2.xml"
+    ],
+    "hate.v.01": [
+        "admire-31.2.xml"
+    ],
+    "respect.v.01": [
+        "admire-31.2.xml",
+        "admire-31.2.xml",
+        "admire-31.2.xml",
+        "admire-31.2.xml"
+    ],
+    "laud.v.01": [
+        "admire-31.2.xml",
+        "overstate-37.12.xml"
+    ],
+    "fancy.v.02": [
+        "admire-31.2.xml",
+        "want-32.1.xml"
+    ],
+    "favor.v.03": [
+        "admire-31.2.xml"
+    ],
+    "privilege.v.01": [
+        "admire-31.2.xml"
+    ],
+    "prefer.v.03": [
+        "admire-31.2.xml"
+    ],
+    "idolize.v.01": [
+        "admire-31.2.xml",
+        "admire-31.2.xml",
+        "admire-31.2.xml"
+    ],
+    "miss.v.02": [
+        "admire-31.2.xml"
+    ],
+    "distrust.v.01": [
+        "admire-31.2.xml",
+        "admire-31.2.xml"
+    ],
+    "enjoy.v.01": [
+        "admire-31.2.xml",
+        "admire-31.2.xml",
+        "sight-30.2.xml"
+    ],
+    "reverence.v.01": [
+        "admire-31.2.xml",
+        "admire-31.2.xml"
+    ],
+    "digest.v.03": [
+        "admire-31.2.xml",
+        "admire-31.2.xml",
+        "admire-31.2.xml"
+    ],
+    "support.v.01": [
+        "admire-31.2.xml",
+        "help-72.xml"
+    ],
+    "back.v.01": [
+        "admire-31.2.xml"
+    ],
+    "trust.v.01": [
+        "admire-31.2.xml",
+        "rely-70.xml",
+        "rely-70.xml"
+    ],
+    "worship.v.02": [
+        "admire-31.2.xml"
+    ],
+    "abhor.v.01": [
+        "admire-31.2.xml",
+        "admire-31.2.xml",
+        "admire-31.2.xml"
+    ],
+    "deplore.v.01": [
+        "admire-31.2.xml"
+    ],
+    "deplore.v.02": [
+        "admire-31.2.xml",
+        "admire-31.2.xml"
+    ],
+    "fear.v.02": [
+        "admire-31.2.xml"
+    ],
+    "envy.v.01": [
+        "admire-31.2.xml"
+    ],
+    "envy.v.02": [
+        "admire-31.2.xml"
+    ],
+    "mourn.v.01": [
+        "admire-31.2.xml"
+    ],
+    "feel_for.v.01": [
+        "admire-31.2.xml"
+    ],
+    "begrudge.v.02": [
+        "admire-31.2.xml"
+    ],
+    "think.v.01": [
+        "admire-31.2.xml",
+        "deduce-97.2.xml"
+    ],
+    "suffer.v.03": [
+        "admire-31.2.xml"
+    ],
+    "suffer.v.06": [
+        "admire-31.2.xml"
+    ],
+    "suffer.v.08": [
+        "admire-31.2.xml"
+    ],
+    "admit.v.02": [
+        "admit-65.xml"
+    ],
+    "admit.v.03": [
+        "admit-65.xml",
+        "admit-65.xml",
+        "involve-107.xml"
+    ],
+    "permit.v.01": [
+        "admit-65.xml",
+        "admit-65.xml",
+        "allow-64.xml",
+        "allow-64.xml",
+        "order-60.xml",
+        "order-60.xml"
+    ],
+    "exclude.v.01": [
+        "admit-65.xml",
+        "remove-10.1.xml"
+    ],
+    "exclude.v.02": [
+        "admit-65.xml"
+    ],
+    "welcome.v.03": [
+        "admit-65.xml"
+    ],
+    "assume.v.02": [
+        "adopt-93.xml",
+        "adopt-93.xml",
+        "adopt-93.xml",
+        "appoint-29.1.xml",
+        "characterize-29.2.xml"
+    ],
+    "assume.v.03": [
+        "adopt-93.xml",
+        "adopt-93.xml"
+    ],
+    "assume.v.05": [
+        "adopt-93.xml"
+    ],
+    "adopt.v.01": [
+        "adopt-93.xml",
+        "appoint-29.1.xml",
+        "characterize-29.2.xml"
+    ],
+    "assume.v.06": [
+        "adopt-93.xml"
+    ],
+    "alarm.v.02": [
+        "advise-37.9.xml"
+    ],
+    "approve.v.01": [
+        "allow-64.xml",
+        "allow-64.xml",
+        "order-60.xml"
+    ],
+    "approve.v.02": [
+        "allow-64.xml"
+    ],
+    "sanction.v.02": [
+        "allow-64.xml"
+    ],
+    "allow.v.10": [
+        "allow-64.xml"
+    ],
+    "intermarry.v.01": [
+        "amalgamate-22.2.xml"
+    ],
+    "embarrass.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "affect.v.05": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "afflict.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "diss.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "exacerbate.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "agitate.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "agonize.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "agonize.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "dismay.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "estrange.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "amaze.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "perplex.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "amuse.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "amuse.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "anger.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "anger.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "annoy.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "pain-40.8.1.xml"
+    ],
+    "antagonize.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "shock.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "pacify.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "stimulate.v.04": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "other_cos-45.4.xml"
+    ],
+    "arouse.v.07": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "awe.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "juggle.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "capture.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "bewilder.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "magnetize.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "boggle.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "flabbergast.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "bore.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "bother.v.05": [
+        "amuse-31.1.xml"
+    ],
+    "bother.v.06": [
+        "amuse-31.1.xml"
+    ],
+    "strong-arm.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "browbeat.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "tease.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "calm.v.01": [
+        "amuse-31.1.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "humiliate.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "cheer.v.03": [
+        "amuse-31.1.xml"
+    ],
+    "cheer.v.04": [
+        "amuse-31.1.xml"
+    ],
+    "chill.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "surfeit.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "comfort.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "force-59.xml"
+    ],
+    "concern.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "confuse.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "confuse.v.03": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "content.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "convert.v.09": [
+        "amuse-31.1.xml",
+        "force-59.xml"
+    ],
+    "overawe.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "crush.v.05": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "daunt.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "stun.v.03": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "dazzle.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "depress.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "please.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "enchant.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "devastate.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "disappoint.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "disarm.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "upset.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "dishonor.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "take_down.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "disgruntle.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "disgust.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "disgust.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "dishearten.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "dishonor.n.01": [
+        "amuse-31.1.xml"
+    ],
+    "disenchant.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "displease.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "perturb.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "dissatisfy.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "distress.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "disturb.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "elate.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "electrify.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "cheer.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "absorb.v.09": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "steep.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "enlighten.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "enrage.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "entertain.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "enthuse.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "entice.v.01": [
+        "amuse-31.1.xml",
+        "force-59.xml",
+        "force-59.xml"
+    ],
+    "infuriate.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "excite.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "stimulate.v.03": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "exhaust.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "exhilarate.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "intrigue.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "faze.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "flatter.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "shock.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "fluster.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "fluster.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "frighten.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "torment.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "gall.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "startle.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "gladden.v.01": [
+        "amuse-31.1.xml",
+        "other_cos-45.4.xml"
+    ],
+    "gladden.v.02": [
+        "amuse-31.1.xml",
+        "other_cos-45.4.xml"
+    ],
+    "satisfy.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "gratify.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "grieve.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "harass.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "haunt.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "humble.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "hurt.v.04": [
+        "amuse-31.1.xml"
+    ],
+    "impress.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "impress.v.03": [
+        "amuse-31.1.xml"
+    ],
+    "prompt.v.02": [
+        "amuse-31.1.xml",
+        "force-59.xml"
+    ],
+    "interest.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "intimidate.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "quicken.v.03": [
+        "amuse-31.1.xml",
+        "other_cos-45.4.xml"
+    ],
+    "invigorate.v.04": [
+        "amuse-31.1.xml"
+    ],
+    "jar.v.04": [
+        "amuse-31.1.xml"
+    ],
+    "jolt.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "lull.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "madden.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "madden.v.03": [
+        "amuse-31.1.xml"
+    ],
+    "miff.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "mislead.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "misadvise.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "mortify.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "move.v.11": [
+        "amuse-31.1.xml"
+    ],
+    "addle.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "numb.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "pique.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "hurt.v.05": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "overwhelm.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "pain.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "peeve.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "preoccupy.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "arouse.v.01": [
+        "amuse-31.1.xml",
+        "engender-27.xml",
+        "engender-27.xml"
+    ],
+    "tease.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "call_on_the_carpet.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "eat_into.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "reassure.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "reassure.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "refresh.v.02": [
+        "amuse-31.1.xml",
+        "other_cos-45.4.xml"
+    ],
+    "relax.v.04": [
+        "amuse-31.1.xml"
+    ],
+    "still.v.03": [
+        "amuse-31.1.xml",
+        "cheat-10.6.xml",
+        "other_cos-45.4.xml"
+    ],
+    "relieve.v.08": [
+        "amuse-31.1.xml",
+        "cheat-10.6.xml"
+    ],
+    "repel.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "regenerate.v.09": [
+        "amuse-31.1.xml"
+    ],
+    "ruffle.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "ruffle.v.04": [
+        "amuse-31.1.xml"
+    ],
+    "sadden.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "shame.v.03": [
+        "amuse-31.1.xml"
+    ],
+    "shock.v.03": [
+        "amuse-31.1.xml"
+    ],
+    "sober.v.01": [
+        "amuse-31.1.xml",
+        "other_cos-45.4.xml"
+    ],
+    "spook.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "stagger.v.04": [
+        "amuse-31.1.xml"
+    ],
+    "stimulate.v.06": [
+        "amuse-31.1.xml"
+    ],
+    "sting.v.05": [
+        "amuse-31.1.xml"
+    ],
+    "raise.v.07": [
+        "amuse-31.1.xml",
+        "engender-27.xml",
+        "engender-27.xml"
+    ],
+    "stump.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "besot.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "surprise.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "tempt.v.03": [
+        "amuse-31.1.xml",
+        "order-60.xml"
+    ],
+    "tempt.v.05": [
+        "amuse-31.1.xml"
+    ],
+    "terrify.v.01": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "endanger.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "thrill.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "thrill.v.02": [
+        "amuse-31.1.xml",
+        "amuse-31.1.xml"
+    ],
+    "titillate.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "torment.v.01": [
+        "amuse-31.1.xml",
+        "destroy-44.xml"
+    ],
+    "touch.v.03": [
+        "amuse-31.1.xml"
+    ],
+    "try.v.06": [
+        "amuse-31.1.xml"
+    ],
+    "tire.v.02": [
+        "amuse-31.1.xml",
+        "other_cos-45.4.xml"
+    ],
+    "worry.v.03": [
+        "amuse-31.1.xml"
+    ],
+    "wow.v.01": [
+        "amuse-31.1.xml"
+    ],
+    "smite.v.02": [
+        "amuse-31.1.xml"
+    ],
+    "appoint.v.01": [
+        "appoint-29.1.xml",
+        "appoint-29.1.xml",
+        "dub-29.3.xml"
+    ],
+    "appoint.v.02": [
+        "appoint-29.1.xml",
+        "equip-13.4.2.xml"
+    ],
+    "crown.v.01": [
+        "appoint-29.1.xml",
+        "appoint-29.1.xml",
+        "dub-29.3.xml"
+    ],
+    "designate.v.01": [
+        "appoint-29.1.xml"
+    ],
+    "elect.v.01": [
+        "appoint-29.1.xml"
+    ],
+    "install.v.02": [
+        "appoint-29.1.xml"
+    ],
+    "proclaim.v.01": [
+        "appoint-29.1.xml"
+    ],
+    "distinguish.v.03": [
+        "appoint-29.1.xml"
+    ],
+    "ordain.v.02": [
+        "appoint-29.1.xml",
+        "dub-29.3.xml"
+    ],
+    "ordain.v.03": [
+        "appoint-29.1.xml"
+    ],
+    "adopt.v.02": [
+        "appoint-29.1.xml",
+        "characterize-29.2.xml"
+    ],
+    "espouse.v.03": [
+        "appoint-29.1.xml",
+        "characterize-29.2.xml"
+    ],
+    "reelect.v.01": [
+        "appoint-29.1.xml"
+    ],
+    "want.v.04": [
+        "appoint-29.1.xml"
+    ],
+    "nominate.v.01": [
+        "appoint-29.1.xml"
+    ],
+    "nominate.v.02": [
+        "appoint-29.1.xml"
+    ],
+    "name.v.03": [
+        "appoint-29.1.xml",
+        "dub-29.3.xml",
+        "dub-29.3.xml"
+    ],
+    "analyze.v.01": [
+        "assessment-34.1.xml",
+        "assessment-34.1.xml",
+        "assessment-34.1.xml",
+        "investigate-35.4.xml",
+        "sight-30.2.xml",
+        "sight-30.2.xml"
+    ],
+    "measure.v.04": [
+        "assessment-34.1.xml",
+        "assessment-34.1.xml",
+        "assessment-34.1.xml",
+        "estimate-34.2.xml",
+        "price-54.4.xml",
+        "price-54.4.xml",
+        "price-54.4.xml"
+    ],
+    "audit.v.01": [
+        "assessment-34.1.xml",
+        "assessment-34.1.xml",
+        "investigate-35.4.xml",
+        "sight-30.2.xml",
+        "sight-30.2.xml"
+    ],
+    "check.v.01": [
+        "assessment-34.1.xml",
+        "peer-30.3.xml"
+    ],
+    "review.v.02": [
+        "assessment-34.1.xml"
+    ],
+    "size_up.v.01": [
+        "assessment-34.1.xml",
+        "investigate-35.4.xml",
+        "sight-30.2.xml"
+    ],
+    "analyze.v.03": [
+        "assessment-34.1.xml"
+    ],
+    "analyze.v.02": [
+        "assessment-34.1.xml"
+    ],
+    "analyze.v.04": [
+        "assessment-34.1.xml"
+    ],
+    "assay.v.01": [
+        "assessment-34.1.xml"
+    ],
+    "proofread.v.01": [
+        "assessment-34.1.xml"
+    ],
+    "avoid.v.01": [
+        "avoid-52.xml"
+    ],
+    "debar.v.02": [
+        "avoid-52.xml"
+    ],
+    "avoid.v.03": [
+        "avoid-52.xml"
+    ],
+    "keep_off.v.01": [
+        "avoid-52.xml"
+    ],
+    "hedge.v.01": [
+        "avoid-52.xml",
+        "avoid-52.xml",
+        "avoid-52.xml",
+        "avoid-52.xml",
+        "avoid-52.xml",
+        "avoid-52.xml"
+    ],
+    "dodge.v.01": [
+        "avoid-52.xml"
+    ],
+    "elude.v.01": [
+        "avoid-52.xml",
+        "avoid-52.xml"
+    ],
+    "shun.v.01": [
+        "avoid-52.xml",
+        "avoid-52.xml"
+    ],
+    "banish.v.01": [
+        "banish-10.2.xml",
+        "remove-10.1.xml"
+    ],
+    "banish.v.02": [
+        "banish-10.2.xml"
+    ],
+    "banish.v.03": [
+        "banish-10.2.xml"
+    ],
+    "banish.v.04": [
+        "banish-10.2.xml"
+    ],
+    "extradite.v.01": [
+        "banish-10.2.xml",
+        "banish-10.2.xml"
+    ],
+    "expatriate.v.01": [
+        "banish-10.2.xml"
+    ],
+    "evacuate.v.01": [
+        "banish-10.2.xml"
+    ],
+    "evacuate.v.03": [
+        "banish-10.2.xml"
+    ],
+    "expel.v.01": [
+        "banish-10.2.xml",
+        "remove-10.1.xml"
+    ],
+    "oust.v.01": [
+        "banish-10.2.xml",
+        "fire-10.10.xml",
+        "fire-10.10.xml",
+        "remove-10.1.xml",
+        "remove-10.1.xml"
+    ],
+    "recall.v.04": [
+        "banish-10.2.xml"
+    ],
+    "recall.v.06": [
+        "banish-10.2.xml"
+    ],
+    "recall.v.07": [
+        "banish-10.2.xml",
+        "remove-10.1.xml"
+    ],
+    "recuse.v.01": [
+        "banish-10.2.xml"
+    ],
+    "remove.v.01": [
+        "banish-10.2.xml",
+        "remove-10.1.xml",
+        "remove-10.1.xml"
+    ],
+    "remove.v.02": [
+        "banish-10.2.xml",
+        "fire-10.10.xml",
+        "remove-10.1.xml"
+    ],
+    "get_rid_of.v.01": [
+        "banish-10.2.xml"
+    ],
+    "take_out.v.01": [
+        "banish-10.2.xml",
+        "remove-10.1.xml"
+    ],
+    "remove.v.05": [
+        "banish-10.2.xml"
+    ],
+    "shanghai.v.01": [
+        "banish-10.2.xml"
+    ],
+    "boot.v.01": [
+        "banish-10.2.xml"
+    ],
+    "establish.v.08": [
+        "base-97.1.xml",
+        "base-97.1.xml",
+        "base-97.1.xml",
+        "base-97.1.xml"
+    ],
+    "build.v.08": [
+        "base-97.1.xml"
+    ],
+    "interpret.v.01": [
+        "base-97.1.xml"
+    ],
+    "confer.v.01": [
+        "battle-36.4.xml",
+        "chit_chat-37.6.xml"
+    ],
+    "come.v.03": [
+        "become-109.1.xml"
+    ],
+    "come.v.06": [
+        "become-109.1.xml"
+    ],
+    "turn_out.v.04": [
+        "become-109.1.xml"
+    ],
+    "turn.v.06": [
+        "become-109.1.xml"
+    ],
+    "become.v.01": [
+        "become-109.1.xml",
+        "become-109.1.xml",
+        "convert-26.6.2.xml"
+    ],
+    "make.v.02": [
+        "become-109.1.xml",
+        "dub-29.3.xml"
+    ],
+    "experience.v.03": [
+        "become-109.1.xml"
+    ],
+    "turn.v.07": [
+        "become-109.1.xml"
+    ],
+    "fall.v.03": [
+        "become-109.1.xml",
+        "convert-26.6.2.xml"
+    ],
+    "locate.v.01": [
+        "become-109.1.xml"
+    ],
+    "beg.v.01": [
+        "beg-58.2.xml",
+        "urge-58.1.xml",
+        "urge-58.1.xml"
+    ],
+    "solicit.v.01": [
+        "beg-58.2.xml",
+        "urge-58.1.xml"
+    ],
+    "ask.v.01": [
+        "beg-58.2.xml",
+        "inquire-37.1.2.xml",
+        "inquire-37.1.2.xml",
+        "inquire-37.1.2.xml"
+    ],
+    "ask.v.02": [
+        "beg-58.2.xml",
+        "urge-58.1.xml"
+    ],
+    "request.v.03": [
+        "beg-58.2.xml"
+    ],
+    "request.v.01": [
+        "beg-58.2.xml"
+    ],
+    "request.v.02": [
+        "beg-58.2.xml"
+    ],
+    "supplicate.v.01": [
+        "beg-58.2.xml"
+    ],
+    "supplicate.v.03": [
+        "beg-58.2.xml"
+    ],
+    "supplicate.v.02": [
+        "beg-58.2.xml"
+    ],
+    "importune.v.01": [
+        "beg-58.2.xml"
+    ],
+    "advance.v.01": [
+        "begin-55.1.xml",
+        "escape-51.1.xml"
+    ],
+    "proceed.v.02": [
+        "begin-55.1.xml"
+    ],
+    "overdress.v.02": [
+        "being_dressed-41.3.3.xml"
+    ],
+    "dress.v.02": [
+        "being_dressed-41.3.3.xml",
+        "dress-41.1.1.xml",
+        "dressing_well-41.3.2.xml"
+    ],
+    "equip.v.01": [
+        "being_dressed-41.3.3.xml"
+    ],
+    "vest.v.05": [
+        "being_dressed-41.3.3.xml"
+    ],
+    "antique.v.01": [
+        "berry-13.7.xml"
+    ],
+    "berry.v.01": [
+        "berry-13.7.xml"
+    ],
+    "birdnest.v.01": [
+        "berry-13.7.xml"
+    ],
+    "blackberry.v.01": [
+        "berry-13.7.xml"
+    ],
+    "clam.v.01": [
+        "berry-13.7.xml"
+    ],
+    "crab.v.03": [
+        "berry-13.7.xml"
+    ],
+    "fish.v.02": [
+        "berry-13.7.xml",
+        "hunt-35.1.xml"
+    ],
+    "fowl.v.01": [
+        "berry-13.7.xml"
+    ],
+    "fowl.v.02": [
+        "berry-13.7.xml"
+    ],
+    "grouse.v.01": [
+        "berry-13.7.xml",
+        "complain-37.8.xml"
+    ],
+    "log.v.02": [
+        "berry-13.7.xml"
+    ],
+    "mushroom.v.01": [
+        "berry-13.7.xml"
+    ],
+    "nest.v.04": [
+        "berry-13.7.xml"
+    ],
+    "nut.v.01": [
+        "berry-13.7.xml"
+    ],
+    "oyster.v.01": [
+        "berry-13.7.xml"
+    ],
+    "pearl.v.01": [
+        "berry-13.7.xml"
+    ],
+    "prawn.v.01": [
+        "berry-13.7.xml"
+    ],
+    "rabbit.v.01": [
+        "berry-13.7.xml"
+    ],
+    "scallop.v.04": [
+        "berry-13.7.xml"
+    ],
+    "seal.v.06": [
+        "berry-13.7.xml"
+    ],
+    "shark.v.02": [
+        "berry-13.7.xml"
+    ],
+    "shrimp.v.01": [
+        "berry-13.7.xml"
+    ],
+    "snail.v.01": [
+        "berry-13.7.xml",
+        "pit-10.7.xml"
+    ],
+    "snipe.v.01": [
+        "berry-13.7.xml"
+    ],
+    "sponge.v.05": [
+        "berry-13.7.xml"
+    ],
+    "whale.v.01": [
+        "berry-13.7.xml"
+    ],
+    "whelk.v.01": [
+        "berry-13.7.xml"
+    ],
+    "whore.v.02": [
+        "berry-13.7.xml"
+    ],
+    "hawk.v.02": [
+        "berry-13.7.xml"
+    ],
+    "buck.v.04": [
+        "body_internal_motion-49.xml"
+    ],
+    "fidget.v.01": [
+        "body_internal_motion-49.xml"
+    ],
+    "beat.v.08": [
+        "body_internal_motion-49.xml"
+    ],
+    "beat.v.15": [
+        "body_internal_motion-49.xml"
+    ],
+    "gyrate.v.01": [
+        "body_internal_motion-49.xml",
+        "roll-51.3.1.xml"
+    ],
+    "spin.v.01": [
+        "body_internal_motion-49.xml",
+        "roll-51.3.1.xml",
+        "roll-51.3.1.xml"
+    ],
+    "kick.v.02": [
+        "body_internal_motion-49.xml"
+    ],
+    "kick_back.v.02": [
+        "body_internal_motion-49.xml"
+    ],
+    "rock.v.01": [
+        "body_internal_motion-49.xml",
+        "body_internal_motion-49.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "writhe.v.01": [
+        "body_internal_motion-49.xml",
+        "body_internal_motion-49.xml",
+        "body_internal_states-40.6.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "pit-10.7.xml",
+        "roll-51.3.1.xml",
+        "run-51.3.2.xml"
+    ],
+    "swing.v.02": [
+        "body_internal_motion-49.xml"
+    ],
+    "rock.v.02": [
+        "body_internal_motion-49.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "teeter.v.01": [
+        "body_internal_motion-49.xml",
+        "body_internal_motion-49.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "run-51.3.2.xml"
+    ],
+    "totter.v.01": [
+        "body_internal_motion-49.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "run-51.3.2.xml"
+    ],
+    "toddle.v.01": [
+        "body_internal_motion-49.xml",
+        "run-51.3.2.xml",
+        "run-51.3.2.xml",
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "twitch.v.01": [
+        "body_internal_motion-49.xml"
+    ],
+    "jerk.v.02": [
+        "body_internal_motion-49.xml"
+    ],
+    "twitch.v.05": [
+        "body_internal_motion-49.xml"
+    ],
+    "wag.v.01": [
+        "body_internal_motion-49.xml",
+        "wink-40.3.1.xml"
+    ],
+    "wamble.v.01": [
+        "body_internal_motion-49.xml"
+    ],
+    "jiggle.v.01": [
+        "body_internal_motion-49.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "wobble.v.01": [
+        "body_internal_motion-49.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "careen.v.02": [
+        "body_internal_motion-49.xml",
+        "other_cos-45.4.xml"
+    ],
+    "convulse.v.03": [
+        "body_internal_states-40.6.xml"
+    ],
+    "convulse.v.06": [
+        "body_internal_states-40.6.xml"
+    ],
+    "huddle.v.02": [
+        "body_internal_states-40.6.xml"
+    ],
+    "quiver.v.01": [
+        "body_internal_states-40.6.xml",
+        "body_internal_states-40.6.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "shake.v.01": [
+        "body_internal_states-40.6.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "shake.v.02": [
+        "body_internal_states-40.6.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "shudder.v.02": [
+        "body_internal_states-40.6.xml",
+        "body_internal_states-40.6.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "shiver.v.02": [
+        "body_internal_states-40.6.xml",
+        "body_internal_states-40.6.xml"
+    ],
+    "tremble.v.01": [
+        "body_internal_states-40.6.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "bob.v.05": [
+        "braid-41.2.2.xml"
+    ],
+    "braid.v.03": [
+        "braid-41.2.2.xml"
+    ],
+    "brush.v.03": [
+        "braid-41.2.2.xml",
+        "floss-41.2.1.xml"
+    ],
+    "nip.v.03": [
+        "braid-41.2.2.xml"
+    ],
+    "comb.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "comb.v.03": [
+        "braid-41.2.2.xml"
+    ],
+    "condition.v.05": [
+        "braid-41.2.2.xml"
+    ],
+    "crimp.v.02": [
+        "braid-41.2.2.xml"
+    ],
+    "crop.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "curl.v.04": [
+        "braid-41.2.2.xml",
+        "braid-41.2.2.xml"
+    ],
+    "cut.v.32": [
+        "braid-41.2.2.xml"
+    ],
+    "dye.v.01": [
+        "braid-41.2.2.xml",
+        "coloring-24.xml"
+    ],
+    "file.v.02": [
+        "braid-41.2.2.xml",
+        "wipe_instr-10.4.2.xml"
+    ],
+    "henna.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "lather.v.02": [
+        "braid-41.2.2.xml"
+    ],
+    "soap.v.01": [
+        "braid-41.2.2.xml",
+        "braid-41.2.2.xml"
+    ],
+    "manicure.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "manicure.v.02": [
+        "braid-41.2.2.xml"
+    ],
+    "perm.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "plait.v.02": [
+        "braid-41.2.2.xml"
+    ],
+    "pluck.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "powder.v.02": [
+        "braid-41.2.2.xml"
+    ],
+    "rinse.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "wash.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "gargle.v.02": [
+        "braid-41.2.2.xml"
+    ],
+    "rouge.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "dress.v.16": [
+        "braid-41.2.2.xml"
+    ],
+    "shampoo.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "talc.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "tease.v.09": [
+        "braid-41.2.2.xml"
+    ],
+    "towel.v.01": [
+        "braid-41.2.2.xml",
+        "wipe_instr-10.4.2.xml"
+    ],
+    "pare.v.04": [
+        "braid-41.2.2.xml"
+    ],
+    "trim.v.02": [
+        "braid-41.2.2.xml"
+    ],
+    "trim.v.06": [
+        "braid-41.2.2.xml"
+    ],
+    "tweeze.v.01": [
+        "braid-41.2.2.xml"
+    ],
+    "wave.v.05": [
+        "braid-41.2.2.xml"
+    ],
+    "break.v.02": [
+        "break-45.1.xml"
+    ],
+    "break.v.05": [
+        "break-45.1.xml"
+    ],
+    "fail.v.04": [
+        "break-45.1.xml"
+    ],
+    "collapse.v.01": [
+        "break-45.1.xml",
+        "other_cos-45.4.xml"
+    ],
+    "break.v.43": [
+        "break-45.1.xml",
+        "split-23.2.xml"
+    ],
+    "crack.v.01": [
+        "break-45.1.xml",
+        "break-45.1.xml"
+    ],
+    "fracture.v.06": [
+        "break-45.1.xml",
+        "break-45.1.xml"
+    ],
+    "chip.v.01": [
+        "break-45.1.xml"
+    ],
+    "nick.v.02": [
+        "break-45.1.xml"
+    ],
+    "chip.v.05": [
+        "break-45.1.xml"
+    ],
+    "crack.v.06": [
+        "break-45.1.xml"
+    ],
+    "snap.v.03": [
+        "break-45.1.xml",
+        "break-45.1.xml",
+        "split-23.2.xml"
+    ],
+    "crack.v.11": [
+        "break-45.1.xml"
+    ],
+    "crash.v.01": [
+        "break-45.1.xml"
+    ],
+    "crash.v.03": [
+        "break-45.1.xml"
+    ],
+    "crash.v.05": [
+        "break-45.1.xml"
+    ],
+    "crash.v.09": [
+        "break-45.1.xml"
+    ],
+    "squash.v.01": [
+        "break-45.1.xml",
+        "hit-18.1.xml"
+    ],
+    "crush.v.04": [
+        "break-45.1.xml"
+    ],
+    "jam.v.03": [
+        "break-45.1.xml"
+    ],
+    "crush.v.08": [
+        "break-45.1.xml"
+    ],
+    "fissure.v.01": [
+        "break-45.1.xml"
+    ],
+    "fracture.v.03": [
+        "break-45.1.xml"
+    ],
+    "fracture.v.04": [
+        "break-45.1.xml"
+    ],
+    "fracture.v.05": [
+        "break-45.1.xml"
+    ],
+    "rend.v.01": [
+        "break-45.1.xml",
+        "split-23.2.xml"
+    ],
+    "shatter.v.01": [
+        "break-45.1.xml",
+        "destroy-44.xml"
+    ],
+    "shatter.v.03": [
+        "break-45.1.xml",
+        "destroy-44.xml"
+    ],
+    "smash.v.02": [
+        "break-45.1.xml"
+    ],
+    "bang_up.v.01": [
+        "break-45.1.xml"
+    ],
+    "tear.v.01": [
+        "break-45.1.xml",
+        "break-45.1.xml",
+        "other_cos-45.4.xml",
+        "split-23.2.xml"
+    ],
+    "sliver.v.01": [
+        "break-45.1.xml",
+        "split-23.2.xml"
+    ],
+    "splinter.v.03": [
+        "break-45.1.xml",
+        "split-23.2.xml"
+    ],
+    "cleave.v.01": [
+        "break-45.1.xml",
+        "split-23.2.xml"
+    ],
+    "burst.v.01": [
+        "break-45.1.xml",
+        "other_cos-45.4.xml",
+        "split-23.2.xml"
+    ],
+    "tear.v.02": [
+        "break-45.1.xml",
+        "split-23.2.xml"
+    ],
+    "shed_blood.v.02": [
+        "breathe-40.1.2.xml"
+    ],
+    "drivel.v.01": [
+        "breathe-40.1.2.xml",
+        "breathe-40.1.2.xml"
+    ],
+    "vomit.v.01": [
+        "breathe-40.1.2.xml",
+        "breathe-40.1.2.xml",
+        "pour-9.5.xml"
+    ],
+    "spit.v.01": [
+        "breathe-40.1.2.xml",
+        "pour-9.5.xml"
+    ],
+    "sweat.v.01": [
+        "breathe-40.1.2.xml"
+    ],
+    "cry.v.02": [
+        "breathe-40.1.2.xml",
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "lead.v.01": [
+        "bring-11.3.xml"
+    ],
+    "bring.v.01": [
+        "bring-11.3.xml",
+        "send-11.1.xml"
+    ],
+    "carry.v.02": [
+        "bring-11.3.xml"
+    ],
+    "abound.v.02": [
+        "bulge-47.5.3.xml"
+    ],
+    "bulge.v.01": [
+        "bulge-47.5.3.xml"
+    ],
+    "start.v.14": [
+        "bulge-47.5.3.xml"
+    ],
+    "hyperventilate.v.02": [
+        "bulge-47.5.3.xml"
+    ],
+    "hyperventilate.v.01": [
+        "bulge-47.5.3.xml"
+    ],
+    "hum.v.02": [
+        "bulge-47.5.3.xml"
+    ],
+    "hit.v.02": [
+        "bump-18.4.xml"
+    ],
+    "prevail.v.03": [
+        "bump-18.4.xml"
+    ],
+    "run.v.34": [
+        "bump-18.4.xml"
+    ],
+    "multiply.v.02": [
+        "calibratable_cos-45.6.xml",
+        "other_cos-45.4.xml"
+    ],
+    "calve.v.02": [
+        "calve-28.xml"
+    ],
+    "cub.v.01": [
+        "calve-28.xml"
+    ],
+    "fawn.v.03": [
+        "calve-28.xml"
+    ],
+    "foal.v.01": [
+        "calve-28.xml"
+    ],
+    "kitten.v.01": [
+        "calve-28.xml"
+    ],
+    "lamb.v.01": [
+        "calve-28.xml"
+    ],
+    "litter.v.03": [
+        "calve-28.xml"
+    ],
+    "whelp.v.01": [
+        "calve-28.xml",
+        "calve-28.xml"
+    ],
+    "engender.v.01": [
+        "calve-28.xml",
+        "engender-27.xml",
+        "engender-27.xml"
+    ],
+    "butcher.v.01": [
+        "captain-29.8.xml",
+        "murder-42.1.xml",
+        "murder-42.1.xml"
+    ],
+    "model.v.03": [
+        "captain-29.8.xml"
+    ],
+    "model.v.04": [
+        "captain-29.8.xml"
+    ],
+    "model.v.05": [
+        "captain-29.8.xml"
+    ],
+    "prostitute.v.01": [
+        "captain-29.8.xml"
+    ],
+    "soldier.v.01": [
+        "captain-29.8.xml"
+    ],
+    "volunteer.v.02": [
+        "captain-29.8.xml"
+    ],
+    "volunteer.v.03": [
+        "captain-29.8.xml"
+    ],
+    "whore.v.01": [
+        "captain-29.8.xml"
+    ],
+    "mind.v.01": [
+        "care-88.1.xml"
+    ],
+    "mind.v.02": [
+        "care-88.1.xml"
+    ],
+    "transport.v.02": [
+        "carry-11.4.xml"
+    ],
+    "dribble.v.03": [
+        "carry-11.4.xml"
+    ],
+    "drag.v.01": [
+        "carry-11.4.xml"
+    ],
+    "haul.v.01": [
+        "carry-11.4.xml",
+        "carry-11.4.xml"
+    ],
+    "pull.v.01": [
+        "carry-11.4.xml",
+        "carry-11.4.xml",
+        "force-59.xml",
+        "force-59.xml"
+    ],
+    "haul.v.02": [
+        "carry-11.4.xml"
+    ],
+    "heave.v.04": [
+        "carry-11.4.xml"
+    ],
+    "hoist.v.01": [
+        "carry-11.4.xml",
+        "put_direction-9.4.xml",
+        "put_direction-9.4.xml"
+    ],
+    "hoist.v.02": [
+        "carry-11.4.xml",
+        "put_direction-9.4.xml"
+    ],
+    "lug.v.01": [
+        "carry-11.4.xml",
+        "carry-11.4.xml",
+        "carry-11.4.xml"
+    ],
+    "nudge.v.01": [
+        "carry-11.4.xml"
+    ],
+    "pull.v.04": [
+        "carry-11.4.xml",
+        "split-23.2.xml"
+    ],
+    "draw.v.05": [
+        "carry-11.4.xml",
+        "remove-10.1.xml",
+        "split-23.2.xml",
+        "split-23.2.xml"
+    ],
+    "extract.v.01": [
+        "carry-11.4.xml",
+        "remove-10.1.xml",
+        "split-23.2.xml"
+    ],
+    "run.v.01": [
+        "carry-11.4.xml"
+    ],
+    "run.v.23": [
+        "carry-11.4.xml"
+    ],
+    "run.v.26": [
+        "carry-11.4.xml"
+    ],
+    "shlep.v.02": [
+        "carry-11.4.xml"
+    ],
+    "tow.v.01": [
+        "carry-11.4.xml"
+    ],
+    "tug.v.01": [
+        "carry-11.4.xml"
+    ],
+    "tug.v.03": [
+        "carry-11.4.xml"
+    ],
+    "tug.v.05": [
+        "carry-11.4.xml",
+        "split-23.2.xml"
+    ],
+    "tug.v.06": [
+        "carry-11.4.xml"
+    ],
+    "yank.v.01": [
+        "carry-11.4.xml",
+        "split-23.2.xml"
+    ],
+    "pale.v.01": [
+        "change_bodily_state-40.8.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "faint.v.01": [
+        "change_bodily_state-40.8.4.xml",
+        "change_bodily_state-40.8.4.xml"
+    ],
+    "sicken.v.02": [
+        "change_bodily_state-40.8.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "zonk_out.v.01": [
+        "change_bodily_state-40.8.4.xml",
+        "change_bodily_state-40.8.4.xml",
+        "change_bodily_state-40.8.4.xml"
+    ],
+    "fall_asleep.v.01": [
+        "change_bodily_state-40.8.4.xml",
+        "change_bodily_state-40.8.4.xml",
+        "change_bodily_state-40.8.4.xml"
+    ],
+    "count.v.06": [
+        "characterize-29.2.xml",
+        "multiply-108.xml"
+    ],
+    "picture.v.02": [
+        "characterize-29.2.xml"
+    ],
+    "visualize.v.01": [
+        "characterize-29.2.xml",
+        "characterize-29.2.xml"
+    ],
+    "envision.v.02": [
+        "characterize-29.2.xml"
+    ],
+    "consider.v.05": [
+        "characterize-29.2.xml"
+    ],
+    "pigeonhole.v.02": [
+        "characterize-29.2.xml",
+        "characterize-29.2.xml",
+        "characterize-29.2.xml",
+        "characterize-29.2.xml"
+    ],
+    "paint.v.03": [
+        "characterize-29.2.xml",
+        "scribble-25.2.xml"
+    ],
+    "type.v.02": [
+        "characterize-29.2.xml"
+    ],
+    "bill.v.02": [
+        "characterize-29.2.xml"
+    ],
+    "placard.v.02": [
+        "characterize-29.2.xml"
+    ],
+    "cast.v.03": [
+        "characterize-29.2.xml"
+    ],
+    "frame.v.04": [
+        "characterize-29.2.xml"
+    ],
+    "diagnose.v.02": [
+        "characterize-29.2.xml"
+    ],
+    "license.v.01": [
+        "characterize-29.2.xml",
+        "patent-101.xml",
+        "patent-101.xml"
+    ],
+    "certify.v.04": [
+        "characterize-29.2.xml"
+    ],
+    "certify.v.05": [
+        "characterize-29.2.xml"
+    ],
+    "praise.v.01": [
+        "characterize-29.2.xml"
+    ],
+    "acclaim.v.01": [
+        "characterize-29.2.xml"
+    ],
+    "hail.v.04": [
+        "characterize-29.2.xml"
+    ],
+    "see.v.05": [
+        "characterize-29.2.xml"
+    ],
+    "treat.v.08": [
+        "characterize-29.2.xml"
+    ],
+    "rank.v.01": [
+        "characterize-29.2.xml",
+        "masquerade-29.6.xml"
+    ],
+    "take.v.06": [
+        "characterize-29.2.xml"
+    ],
+    "choose.v.01": [
+        "characterize-29.2.xml",
+        "characterize-29.2.xml"
+    ],
+    "accept.v.02": [
+        "characterize-29.2.xml"
+    ],
+    "classify.v.01": [
+        "characterize-29.2.xml",
+        "characterize-29.2.xml",
+        "classify-29.10.xml",
+        "classify-29.10.xml",
+        "classify-29.10.xml",
+        "classify-29.10.xml",
+        "classify-29.10.xml"
+    ],
+    "relegate.v.04": [
+        "characterize-29.2.xml"
+    ],
+    "chase.v.01": [
+        "chase-51.6.xml",
+        "chase-51.6.xml",
+        "chase-51.6.xml",
+        "chase-51.6.xml",
+        "stalk-35.3.xml"
+    ],
+    "chase.v.02": [
+        "chase-51.6.xml"
+    ],
+    "follow.v.01": [
+        "chase-51.6.xml"
+    ],
+    "pursue.v.02": [
+        "chase-51.6.xml",
+        "chase-51.6.xml"
+    ],
+    "shadow.v.01": [
+        "chase-51.6.xml"
+    ],
+    "bereave.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "break.v.25": [
+        "cheat-10.6.xml"
+    ],
+    "cleanse.v.02": [
+        "cheat-10.6.xml"
+    ],
+    "bring_around.v.02": [
+        "cheat-10.6.xml",
+        "other_cos-45.4.xml"
+    ],
+    "denude.v.01": [
+        "cheat-10.6.xml",
+        "cheat-10.6.xml"
+    ],
+    "consume.v.05": [
+        "cheat-10.6.xml",
+        "consume-66.xml"
+    ],
+    "depopulate.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "deprive.v.01": [
+        "cheat-10.6.xml",
+        "cheat-10.6.xml",
+        "cheat-10.6.xml",
+        "dress-41.1.1.xml"
+    ],
+    "deprive.v.02": [
+        "cheat-10.6.xml"
+    ],
+    "deprive.v.03": [
+        "cheat-10.6.xml"
+    ],
+    "plunder.v.03": [
+        "cheat-10.6.xml",
+        "cheat-10.6.xml",
+        "cheat-10.6.xml",
+        "cheat-10.6.xml",
+        "investigate-35.4.xml"
+    ],
+    "rape.v.02": [
+        "cheat-10.6.xml"
+    ],
+    "disabuse.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "disarm.v.03": [
+        "cheat-10.6.xml"
+    ],
+    "extricate.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "dispossess.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "divest.v.02": [
+        "cheat-10.6.xml"
+    ],
+    "divest.v.03": [
+        "cheat-10.6.xml"
+    ],
+    "purge.v.04": [
+        "cheat-10.6.xml"
+    ],
+    "purify.v.01": [
+        "cheat-10.6.xml",
+        "other_cos-45.4.xml"
+    ],
+    "purify.v.02": [
+        "cheat-10.6.xml"
+    ],
+    "take_over.v.03": [
+        "cheat-10.6.xml"
+    ],
+    "unbosom.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "relieve.v.09": [
+        "cheat-10.6.xml"
+    ],
+    "rid.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "leach.v.03": [
+        "cheat-10.6.xml"
+    ],
+    "clean.v.07": [
+        "cheat-10.6.xml",
+        "clear-10.3.xml"
+    ],
+    "strip.v.13": [
+        "cheat-10.6.xml",
+        "dress-41.1.1.xml",
+        "dress-41.1.1.xml"
+    ],
+    "unburden.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "unburden.v.02": [
+        "cheat-10.6.xml"
+    ],
+    "wean.v.02": [
+        "cheat-10.6.xml"
+    ],
+    "whitewash.v.03": [
+        "cheat-10.6.xml"
+    ],
+    "bilk.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "bleed.v.03": [
+        "cheat-10.6.xml"
+    ],
+    "bleed.v.05": [
+        "cheat-10.6.xml"
+    ],
+    "cheat.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "victimize.v.03": [
+        "cheat-10.6.xml"
+    ],
+    "rob.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "overcharge.v.01": [
+        "cheat-10.6.xml"
+    ],
+    "argue.v.02": [
+        "chit_chat-37.6.xml"
+    ],
+    "chew_the_fat.v.01": [
+        "chit_chat-37.6.xml",
+        "chit_chat-37.6.xml",
+        "chit_chat-37.6.xml",
+        "chit_chat-37.6.xml"
+    ],
+    "chatter.v.04": [
+        "chit_chat-37.6.xml",
+        "say-37.7.xml"
+    ],
+    "converse.v.01": [
+        "chit_chat-37.6.xml"
+    ],
+    "yak.v.01": [
+        "chit_chat-37.6.xml",
+        "chit_chat-37.6.xml"
+    ],
+    "dish_the_dirt.v.01": [
+        "chit_chat-37.6.xml"
+    ],
+    "joke.v.01": [
+        "chit_chat-37.6.xml",
+        "chit_chat-37.6.xml"
+    ],
+    "palaver.v.03": [
+        "chit_chat-37.6.xml"
+    ],
+    "rap.v.04": [
+        "chit_chat-37.6.xml"
+    ],
+    "shmooze.v.01": [
+        "chit_chat-37.6.xml"
+    ],
+    "cluster.v.01": [
+        "classify-29.10.xml",
+        "herd-47.5.2.xml",
+        "herd-47.5.2.xml"
+    ],
+    "constellate.v.03": [
+        "classify-29.10.xml"
+    ],
+    "sequester.v.05": [
+        "classify-29.10.xml"
+    ],
+    "reclassify.v.01": [
+        "classify-29.10.xml"
+    ],
+    "group.v.01": [
+        "classify-29.10.xml",
+        "herd-47.5.2.xml"
+    ],
+    "regroup.v.02": [
+        "classify-29.10.xml"
+    ],
+    "bracket.v.03": [
+        "classify-29.10.xml"
+    ],
+    "collocate.v.02": [
+        "classify-29.10.xml",
+        "classify-29.10.xml"
+    ],
+    "rate.v.01": [
+        "classify-29.10.xml"
+    ],
+    "count.v.01": [
+        "classify-29.10.xml",
+        "multiply-108.xml"
+    ],
+    "catalogue.v.01": [
+        "classify-29.10.xml"
+    ],
+    "seed.v.05": [
+        "classify-29.10.xml"
+    ],
+    "categorize.v.01": [
+        "classify-29.10.xml"
+    ],
+    "clean.v.02": [
+        "clear-10.3.xml",
+        "other_cos-45.4.xml"
+    ],
+    "clean.v.05": [
+        "clear-10.3.xml",
+        "other_cos-45.4.xml"
+    ],
+    "clean.v.08": [
+        "clear-10.3.xml",
+        "other_cos-45.4.xml"
+    ],
+    "hollow.v.02": [
+        "clear-10.3.xml"
+    ],
+    "cling.v.01": [
+        "cling-22.5.xml",
+        "cling-22.5.xml",
+        "cling-22.5.xml"
+    ],
+    "cling.v.03": [
+        "cling-22.5.xml"
+    ],
+    "loop.v.02": [
+        "coil-9.6.xml",
+        "other_cos-45.4.xml"
+    ],
+    "coil.v.03": [
+        "coil-9.6.xml",
+        "other_cos-45.4.xml"
+    ],
+    "wind.v.03": [
+        "coil-9.6.xml",
+        "coil-9.6.xml",
+        "coil-9.6.xml",
+        "roll-51.3.1.xml"
+    ],
+    "revolve.v.01": [
+        "coil-9.6.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "roll-51.3.1.xml",
+        "roll-51.3.1.xml"
+    ],
+    "whirl.v.02": [
+        "coil-9.6.xml",
+        "coil-9.6.xml",
+        "roll-51.3.1.xml",
+        "roll-51.3.1.xml",
+        "roll-51.3.1.xml"
+    ],
+    "twirl.v.01": [
+        "coil-9.6.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "roll-51.3.1.xml",
+        "roll-51.3.1.xml"
+    ],
+    "color.v.01": [
+        "coloring-24.xml"
+    ],
+    "color.v.04": [
+        "coloring-24.xml"
+    ],
+    "distemper.v.01": [
+        "coloring-24.xml"
+    ],
+    "enamel.v.01": [
+        "coloring-24.xml"
+    ],
+    "glaze.v.01": [
+        "coloring-24.xml"
+    ],
+    "japan.v.01": [
+        "coloring-24.xml"
+    ],
+    "lacquer.v.01": [
+        "coloring-24.xml"
+    ],
+    "paint.v.02": [
+        "coloring-24.xml"
+    ],
+    "shellac.v.01": [
+        "coloring-24.xml"
+    ],
+    "stain.v.01": [
+        "coloring-24.xml"
+    ],
+    "stain.v.02": [
+        "coloring-24.xml"
+    ],
+    "stain.v.04": [
+        "coloring-24.xml"
+    ],
+    "starch.v.01": [
+        "coloring-24.xml"
+    ],
+    "tint.v.01": [
+        "coloring-24.xml"
+    ],
+    "varnish.v.01": [
+        "coloring-24.xml"
+    ],
+    "gripe.v.01": [
+        "complain-37.8.xml",
+        "complain-37.8.xml",
+        "complain-37.8.xml",
+        "complain-37.8.xml"
+    ],
+    "boast.v.01": [
+        "complain-37.8.xml",
+        "complain-37.8.xml",
+        "overstate-37.12.xml"
+    ],
+    "yowl.v.02": [
+        "complain-37.8.xml"
+    ],
+    "complain.v.01": [
+        "complain-37.8.xml",
+        "complain-37.8.xml"
+    ],
+    "grouch.v.01": [
+        "complain-37.8.xml",
+        "complain-37.8.xml"
+    ],
+    "murmur.v.02": [
+        "complain-37.8.xml"
+    ],
+    "object.v.01": [
+        "complain-37.8.xml"
+    ],
+    "whine.v.04": [
+        "complain-37.8.xml"
+    ],
+    "carry_through.v.01": [
+        "complete-55.2.xml"
+    ],
+    "achieve.v.01": [
+        "complete-55.2.xml",
+        "complete-55.2.xml"
+    ],
+    "complete.v.01": [
+        "complete-55.2.xml"
+    ],
+    "complete.v.02": [
+        "complete-55.2.xml"
+    ],
+    "dispatch.v.02": [
+        "complete-55.2.xml"
+    ],
+    "discontinue.v.01": [
+        "complete-55.2.xml",
+        "complete-55.2.xml"
+    ],
+    "misconstrue.v.01": [
+        "comprehend-87.2.xml",
+        "comprehend-87.2.xml",
+        "comprehend-87.2.xml",
+        "comprehend-87.2.xml"
+    ],
+    "confess.v.01": [
+        "confess-37.10.xml"
+    ],
+    "concede.v.01": [
+        "confess-37.10.xml"
+    ],
+    "admit.v.01": [
+        "confess-37.10.xml",
+        "confess-37.10.xml"
+    ],
+    "proclaim.v.02": [
+        "confess-37.10.xml"
+    ],
+    "unwrap.v.02": [
+        "confess-37.10.xml"
+    ],
+    "commit.v.03": [
+        "confine-92.xml",
+        "confine-92.xml"
+    ],
+    "imprison.v.01": [
+        "confine-92.xml",
+        "confine-92.xml",
+        "confine-92.xml",
+        "confine-92.xml",
+        "confine-92.xml",
+        "pocket-9.10.xml",
+        "pocket-9.10.xml"
+    ],
+    "hospitalize.v.01": [
+        "confine-92.xml"
+    ],
+    "confine.v.05": [
+        "confine-92.xml"
+    ],
+    "imprison.v.02": [
+        "confine-92.xml"
+    ],
+    "restrain.v.03": [
+        "confine-92.xml"
+    ],
+    "confront.v.02": [
+        "confront-98.xml",
+        "confront-98.xml"
+    ],
+    "confront.v.01": [
+        "confront-98.xml",
+        "confront-98.xml"
+    ],
+    "confront.v.03": [
+        "confront-98.xml",
+        "confront-98.xml"
+    ],
+    "undertake.v.02": [
+        "confront-98.xml",
+        "confront-98.xml",
+        "confront-98.xml"
+    ],
+    "undertake.v.01": [
+        "confront-98.xml",
+        "try-61.xml"
+    ],
+    "set_about.v.01": [
+        "confront-98.xml",
+        "confront-98.xml"
+    ],
+    "weather.v.01": [
+        "confront-98.xml"
+    ],
+    "manage.v.02": [
+        "confront-98.xml"
+    ],
+    "intercept.v.01": [
+        "confront-98.xml"
+    ],
+    "target.v.01": [
+        "confront-98.xml"
+    ],
+    "rival.v.02": [
+        "confront-98.xml"
+    ],
+    "anticipate.v.02": [
+        "confront-98.xml"
+    ],
+    "battle.v.01": [
+        "confront-98.xml"
+    ],
+    "front.v.02": [
+        "confront-98.xml"
+    ],
+    "ally.v.01": [
+        "conspire-71.xml"
+    ],
+    "collaborate.v.01": [
+        "conspire-71.xml"
+    ],
+    "collaborate.v.02": [
+        "conspire-71.xml"
+    ],
+    "conspire.v.02": [
+        "conspire-71.xml",
+        "conspire-71.xml"
+    ],
+    "conspire.v.01": [
+        "conspire-71.xml"
+    ],
+    "legislate.v.01": [
+        "conspire-71.xml"
+    ],
+    "partner.v.02": [
+        "conspire-71.xml"
+    ],
+    "protest.v.01": [
+        "conspire-71.xml"
+    ],
+    "protest.v.02": [
+        "conspire-71.xml"
+    ],
+    "rebel.v.01": [
+        "conspire-71.xml"
+    ],
+    "retaliate.v.02": [
+        "conspire-71.xml"
+    ],
+    "scheme.v.01": [
+        "conspire-71.xml"
+    ],
+    "team.v.01": [
+        "conspire-71.xml"
+    ],
+    "befriend.v.01": [
+        "conspire-71.xml"
+    ],
+    "use.v.03": [
+        "consume-66.xml"
+    ],
+    "spend.v.01": [
+        "consume-66.xml",
+        "spend_time-104.xml"
+    ],
+    "continue.v.01": [
+        "continue-55.3.xml"
+    ],
+    "continue.v.02": [
+        "continue-55.3.xml",
+        "sustain-55.6.xml",
+        "sustain-55.6.xml"
+    ],
+    "continue.v.06": [
+        "continue-55.3.xml"
+    ],
+    "continue.v.07": [
+        "continue-55.3.xml"
+    ],
+    "continue.v.10": [
+        "continue-55.3.xml"
+    ],
+    "betroth.v.01": [
+        "contribute-13.2.xml"
+    ],
+    "predate.v.01": [
+        "contribute-13.2.xml"
+    ],
+    "refer.v.04": [
+        "contribute-13.2.xml"
+    ],
+    "release.v.08": [
+        "contribute-13.2.xml"
+    ],
+    "waive.v.01": [
+        "contribute-13.2.xml",
+        "exchange-13.6.xml"
+    ],
+    "remit.v.01": [
+        "contribute-13.2.xml"
+    ],
+    "restore.v.03": [
+        "contribute-13.2.xml"
+    ],
+    "give.v.08": [
+        "contribute-13.2.xml"
+    ],
+    "distribute.v.04": [
+        "contribute-13.2.xml",
+        "contribute-13.2.xml"
+    ],
+    "distribute.v.01": [
+        "contribute-13.2.xml",
+        "give-13.1.xml"
+    ],
+    "abnegate.v.02": [
+        "contribute-13.2.xml"
+    ],
+    "allude.v.01": [
+        "convert-26.6.2.xml"
+    ],
+    "come_round.v.01": [
+        "convert-26.6.2.xml"
+    ],
+    "get_around.v.04": [
+        "convert-26.6.2.xml"
+    ],
+    "get_down.v.07": [
+        "convert-26.6.2.xml"
+    ],
+    "recover.v.03": [
+        "convert-26.6.2.xml"
+    ],
+    "fall_back.v.05": [
+        "convert-26.6.2.xml"
+    ],
+    "return.v.01": [
+        "convert-26.6.2.xml",
+        "escape-51.1.xml"
+    ],
+    "revert.v.01": [
+        "convert-26.6.2.xml"
+    ],
+    "settle.v.07": [
+        "convert-26.6.2.xml"
+    ],
+    "shift.v.06": [
+        "convert-26.6.2.xml"
+    ],
+    "switch.v.03": [
+        "convert-26.6.2.xml"
+    ],
+    "take.v.39": [
+        "convert-26.6.2.xml"
+    ],
+    "turn.v.20": [
+        "convert-26.6.2.xml"
+    ],
+    "bake.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "bake.v.02": [
+        "cooking-45.3.xml"
+    ],
+    "barbeque.v.01": [
+        "cooking-45.3.xml",
+        "cooking-45.3.xml"
+    ],
+    "blanch.v.02": [
+        "cooking-45.3.xml",
+        "cooking-45.3.xml"
+    ],
+    "boil.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "boil.v.02": [
+        "cooking-45.3.xml"
+    ],
+    "braise.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "broil.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "brown.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "coddle.v.02": [
+        "cooking-45.3.xml"
+    ],
+    "cook.v.02": [
+        "cooking-45.3.xml"
+    ],
+    "cook.v.03": [
+        "cooking-45.3.xml"
+    ],
+    "crispen.v.01": [
+        "cooking-45.3.xml",
+        "cooking-45.3.xml",
+        "other_cos-45.4.xml"
+    ],
+    "french-fry.v.01": [
+        "cooking-45.3.xml",
+        "cooking-45.3.xml"
+    ],
+    "fry.v.02": [
+        "cooking-45.3.xml"
+    ],
+    "grill.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "heat.v.01": [
+        "cooking-45.3.xml",
+        "other_cos-45.4.xml"
+    ],
+    "heat.v.04": [
+        "cooking-45.3.xml",
+        "other_cos-45.4.xml"
+    ],
+    "microwave.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "overcook.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "pan-broil.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "pan-fry.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "percolate.v.03": [
+        "cooking-45.3.xml"
+    ],
+    "pickle.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "plank.v.03": [
+        "cooking-45.3.xml"
+    ],
+    "poach.v.02": [
+        "cooking-45.3.xml"
+    ],
+    "roast.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "saute.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "scald.v.04": [
+        "cooking-45.3.xml"
+    ],
+    "shirr.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "simmer.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "steam.v.06": [
+        "cooking-45.3.xml"
+    ],
+    "stew.v.03": [
+        "cooking-45.3.xml"
+    ],
+    "stir_fry.v.01": [
+        "cooking-45.3.xml"
+    ],
+    "deal.v.03": [
+        "cope-83.xml"
+    ],
+    "coincide.v.01": [
+        "correlate-86.1.xml"
+    ],
+    "coin.v.01": [
+        "create-26.4.xml"
+    ],
+    "mint.v.01": [
+        "create-26.4.xml"
+    ],
+    "compose.v.02": [
+        "create-26.4.xml",
+        "create-26.4.xml"
+    ],
+    "write.v.01": [
+        "create-26.4.xml",
+        "create-26.4.xml"
+    ],
+    "compose.v.04": [
+        "create-26.4.xml"
+    ],
+    "frame.v.05": [
+        "create-26.4.xml"
+    ],
+    "calculate.v.01": [
+        "create-26.4.xml"
+    ],
+    "concoct.v.01": [
+        "create-26.4.xml"
+    ],
+    "concoct.v.02": [
+        "create-26.4.xml"
+    ],
+    "think_up.v.01": [
+        "create-26.4.xml"
+    ],
+    "construct.v.01": [
+        "create-26.4.xml"
+    ],
+    "construct.v.03": [
+        "create-26.4.xml"
+    ],
+    "create.v.05": [
+        "create-26.4.xml"
+    ],
+    "produce.v.02": [
+        "create-26.4.xml",
+        "create-26.4.xml"
+    ],
+    "deduce.v.01": [
+        "create-26.4.xml",
+        "deduce-97.2.xml",
+        "deduce-97.2.xml",
+        "deduce-97.2.xml",
+        "deduce-97.2.xml",
+        "discover-84.xml"
+    ],
+    "manufacture.v.01": [
+        "create-26.4.xml",
+        "create-26.4.xml"
+    ],
+    "shape.v.03": [
+        "create-26.4.xml"
+    ],
+    "shape.v.02": [
+        "create-26.4.xml"
+    ],
+    "explicate.v.02": [
+        "create-26.4.xml"
+    ],
+    "invent.v.01": [
+        "create-26.4.xml",
+        "create-26.4.xml"
+    ],
+    "improvise.v.01": [
+        "create-26.4.xml"
+    ],
+    "mass-produce.v.01": [
+        "create-26.4.xml"
+    ],
+    "model.v.01": [
+        "create-26.4.xml"
+    ],
+    "model.v.02": [
+        "create-26.4.xml"
+    ],
+    "mastermind.v.01": [
+        "create-26.4.xml"
+    ],
+    "rebuild.v.01": [
+        "create-26.4.xml"
+    ],
+    "style.v.02": [
+        "create-26.4.xml"
+    ],
+    "synthesize.v.01": [
+        "create-26.4.xml"
+    ],
+    "lay.v.03": [
+        "create-26.4.xml"
+    ],
+    "author.v.01": [
+        "create-26.4.xml"
+    ],
+    "draft.v.01": [
+        "create-26.4.xml"
+    ],
+    "write.v.10": [
+        "create-26.4.xml"
+    ],
+    "publish.v.03": [
+        "create-26.4.xml"
+    ],
+    "curtsy.v.02": [
+        "curtsey-40.3.3.xml"
+    ],
+    "bow.v.01": [
+        "curtsey-40.3.3.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "bow.v.03": [
+        "curtsey-40.3.3.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "crouch.v.01": [
+        "curtsey-40.3.3.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "curtsy.v.01": [
+        "curtsey-40.3.3.xml"
+    ],
+    "genuflect.v.01": [
+        "curtsey-40.3.3.xml"
+    ],
+    "scrape.v.04": [
+        "curtsey-40.3.3.xml"
+    ],
+    "kneel.v.01": [
+        "curtsey-40.3.3.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "salaam.v.01": [
+        "curtsey-40.3.3.xml"
+    ],
+    "salute.v.06": [
+        "curtsey-40.3.3.xml"
+    ],
+    "bone.v.02": [
+        "debone-10.8.xml",
+        "pit-10.7.xml"
+    ],
+    "debug.v.01": [
+        "debone-10.8.xml"
+    ],
+    "declaw.v.01": [
+        "debone-10.8.xml"
+    ],
+    "decontaminate.v.01": [
+        "debone-10.8.xml"
+    ],
+    "defang.v.01": [
+        "debone-10.8.xml"
+    ],
+    "defat.v.01": [
+        "debone-10.8.xml"
+    ],
+    "demist.v.01": [
+        "debone-10.8.xml"
+    ],
+    "deforest.v.01": [
+        "debone-10.8.xml"
+    ],
+    "defrost.v.01": [
+        "debone-10.8.xml",
+        "debone-10.8.xml",
+        "other_cos-45.4.xml"
+    ],
+    "degas.v.01": [
+        "debone-10.8.xml"
+    ],
+    "dehorn.v.02": [
+        "debone-10.8.xml"
+    ],
+    "delouse.v.01": [
+        "debone-10.8.xml"
+    ],
+    "desalinate.v.01": [
+        "debone-10.8.xml"
+    ],
+    "scale.v.06": [
+        "debone-10.8.xml",
+        "pit-10.7.xml"
+    ],
+    "sterilize.v.02": [
+        "debone-10.8.xml"
+    ],
+    "de-emphasize.v.01": [
+        "debone-10.8.xml"
+    ],
+    "tusk.v.02": [
+        "debone-10.8.xml"
+    ],
+    "devein.v.01": [
+        "debone-10.8.xml"
+    ],
+    "disembowel.v.01": [
+        "debone-10.8.xml",
+        "debone-10.8.xml"
+    ],
+    "resect.v.01": [
+        "debone-10.8.xml"
+    ],
+    "eviscerate.v.02": [
+        "debone-10.8.xml"
+    ],
+    "give.v.18": [
+        "dedicate-79.xml",
+        "dedicate-79.xml",
+        "dedicate-79.xml"
+    ],
+    "entrust.v.01": [
+        "dedicate-79.xml"
+    ],
+    "reason.v.01": [
+        "deduce-97.2.xml",
+        "deduce-97.2.xml",
+        "deduce-97.2.xml"
+    ],
+    "disprove.v.01": [
+        "deduce-97.2.xml"
+    ],
+    "deduce.v.02": [
+        "deduce-97.2.xml",
+        "discover-84.xml"
+    ],
+    "gather.v.04": [
+        "deduce-97.2.xml"
+    ],
+    "prove.v.02": [
+        "deduce-97.2.xml"
+    ],
+    "rationalize.v.04": [
+        "deduce-97.2.xml"
+    ],
+    "defend.v.01": [
+        "defend-85.xml"
+    ],
+    "defend.v.06": [
+        "defend-85.xml"
+    ],
+    "maintain.v.08": [
+        "defend-85.xml"
+    ],
+    "cover.v.14": [
+        "defend-85.xml"
+    ],
+    "protect.v.01": [
+        "defend-85.xml"
+    ],
+    "shade.v.03": [
+        "defend-85.xml"
+    ],
+    "conserve.v.02": [
+        "defend-85.xml"
+    ],
+    "guard.v.01": [
+        "defend-85.xml"
+    ],
+    "guard.v.02": [
+        "defend-85.xml"
+    ],
+    "safeguard.v.01": [
+        "defend-85.xml"
+    ],
+    "eliminate.v.03": [
+        "destroy-44.xml",
+        "destroy-44.xml",
+        "murder-42.1.xml",
+        "remove-10.1.xml",
+        "remove-10.1.xml"
+    ],
+    "blight.v.01": [
+        "destroy-44.xml"
+    ],
+    "blitz.v.01": [
+        "destroy-44.xml"
+    ],
+    "damage.v.01": [
+        "destroy-44.xml"
+    ],
+    "demolish.v.01": [
+        "destroy-44.xml"
+    ],
+    "desecrate.v.01": [
+        "destroy-44.xml"
+    ],
+    "desecrate.v.02": [
+        "destroy-44.xml"
+    ],
+    "destroy.v.01": [
+        "destroy-44.xml"
+    ],
+    "destroy.v.02": [
+        "destroy-44.xml",
+        "destroy-44.xml"
+    ],
+    "lay_waste_to.v.01": [
+        "destroy-44.xml",
+        "destroy-44.xml",
+        "destroy-44.xml"
+    ],
+    "deface.v.01": [
+        "destroy-44.xml"
+    ],
+    "erase.v.02": [
+        "destroy-44.xml"
+    ],
+    "exterminate.v.01": [
+        "destroy-44.xml"
+    ],
+    "uproot.v.02": [
+        "destroy-44.xml",
+        "remove-10.1.xml"
+    ],
+    "maim.v.01": [
+        "destroy-44.xml"
+    ],
+    "mutilate.v.01": [
+        "destroy-44.xml"
+    ],
+    "mangle.v.03": [
+        "destroy-44.xml"
+    ],
+    "mutilate.v.03": [
+        "destroy-44.xml"
+    ],
+    "obliterate.v.04": [
+        "destroy-44.xml"
+    ],
+    "level.v.02": [
+        "destroy-44.xml"
+    ],
+    "shipwreck.v.01": [
+        "destroy-44.xml"
+    ],
+    "neutralize.v.04": [
+        "destroy-44.xml",
+        "murder-42.1.xml"
+    ],
+    "bust_up.v.01": [
+        "destroy-44.xml",
+        "destroy-44.xml"
+    ],
+    "deviate.v.01": [
+        "differ-23.4.xml"
+    ],
+    "deviate.v.02": [
+        "differ-23.4.xml",
+        "differ-23.4.xml",
+        "differ-23.4.xml"
+    ],
+    "deviate.v.03": [
+        "differ-23.4.xml"
+    ],
+    "differ.v.01": [
+        "differ-23.4.xml"
+    ],
+    "diverge.v.01": [
+        "differ-23.4.xml"
+    ],
+    "diverge.v.02": [
+        "differ-23.4.xml"
+    ],
+    "change.v.03": [
+        "differ-23.4.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "vary.v.03": [
+        "differ-23.4.xml"
+    ],
+    "vary.v.04": [
+        "differ-23.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "feast.v.01": [
+        "dine-39.5.xml",
+        "dine-39.5.xml",
+        "dine-39.5.xml"
+    ],
+    "breakfast.v.01": [
+        "dine-39.5.xml"
+    ],
+    "brunch.v.01": [
+        "dine-39.5.xml"
+    ],
+    "dine.v.01": [
+        "dine-39.5.xml"
+    ],
+    "crop.v.05": [
+        "dine-39.5.xml"
+    ],
+    "browse.v.04": [
+        "dine-39.5.xml"
+    ],
+    "lunch.v.01": [
+        "dine-39.5.xml"
+    ],
+    "nosh.v.01": [
+        "dine-39.5.xml",
+        "dine-39.5.xml"
+    ],
+    "picnic.v.01": [
+        "dine-39.5.xml"
+    ],
+    "sup.v.01": [
+        "dine-39.5.xml"
+    ],
+    "die.v.01": [
+        "disappearance-48.2.xml",
+        "disappearance-48.2.xml",
+        "disappearance-48.2.xml"
+    ],
+    "die.v.10": [
+        "disappearance-48.2.xml"
+    ],
+    "disappear.v.01": [
+        "disappearance-48.2.xml",
+        "disappearance-48.2.xml"
+    ],
+    "vanish.v.02": [
+        "disappearance-48.2.xml",
+        "disappearance-48.2.xml"
+    ],
+    "vanish.v.04": [
+        "disappearance-48.2.xml",
+        "disappearance-48.2.xml"
+    ],
+    "run_out.v.04": [
+        "disappearance-48.2.xml"
+    ],
+    "lapse.v.02": [
+        "disappearance-48.2.xml"
+    ],
+    "elapse.v.01": [
+        "disappearance-48.2.xml"
+    ],
+    "fly.v.08": [
+        "disappearance-48.2.xml"
+    ],
+    "vanish.v.05": [
+        "disappearance-48.2.xml"
+    ],
+    "determine.v.01": [
+        "discover-84.xml",
+        "discover-84.xml"
+    ],
+    "determine.v.08": [
+        "discover-84.xml"
+    ],
+    "detect.v.01": [
+        "discover-84.xml",
+        "discover-84.xml",
+        "sight-30.2.xml"
+    ],
+    "learn.v.02": [
+        "discover-84.xml"
+    ],
+    "discover.v.03": [
+        "discover-84.xml",
+        "discover-84.xml",
+        "sight-30.2.xml"
+    ],
+    "discover.v.04": [
+        "discover-84.xml",
+        "discover-84.xml"
+    ],
+    "fall_upon.v.01": [
+        "discover-84.xml",
+        "discover-84.xml",
+        "sight-30.2.xml"
+    ],
+    "discover.v.07": [
+        "discover-84.xml",
+        "sight-30.2.xml"
+    ],
+    "identify.v.05": [
+        "discover-84.xml"
+    ],
+    "find.v.03": [
+        "discover-84.xml"
+    ],
+    "guess.v.04": [
+        "discover-84.xml"
+    ],
+    "recognize.v.02": [
+        "discover-84.xml"
+    ],
+    "ascertain.v.04": [
+        "discover-84.xml"
+    ],
+    "apologize.v.02": [
+        "discover-84.xml"
+    ],
+    "relearn.v.01": [
+        "discover-84.xml"
+    ],
+    "sniff_out.v.01": [
+        "discover-84.xml",
+        "sight-30.2.xml"
+    ],
+    "solve.v.01": [
+        "discover-84.xml"
+    ],
+    "resolve.v.06": [
+        "discover-84.xml"
+    ],
+    "bathe.v.01": [
+        "dress-41.1.1.xml"
+    ],
+    "bathe.v.03": [
+        "dress-41.1.1.xml"
+    ],
+    "change.v.05": [
+        "dress-41.1.1.xml"
+    ],
+    "change.v.10": [
+        "dress-41.1.1.xml"
+    ],
+    "undress.v.01": [
+        "dress-41.1.1.xml",
+        "dress-41.1.1.xml",
+        "dress-41.1.1.xml"
+    ],
+    "dress.v.01": [
+        "dress-41.1.1.xml"
+    ],
+    "dress.v.04": [
+        "dress-41.1.1.xml"
+    ],
+    "exercise.v.03": [
+        "dress-41.1.1.xml"
+    ],
+    "exercise.v.04": [
+        "dress-41.1.1.xml"
+    ],
+    "frock.v.01": [
+        "dress-41.1.1.xml"
+    ],
+    "wash.v.02": [
+        "dress-41.1.1.xml",
+        "dress-41.1.1.xml",
+        "floss-41.2.1.xml"
+    ],
+    "wash_up.v.01": [
+        "dress-41.1.1.xml"
+    ],
+    "preen.v.03": [
+        "dress-41.1.1.xml",
+        "dress-41.1.1.xml",
+        "dressing_well-41.3.2.xml"
+    ],
+    "shave.v.01": [
+        "dress-41.1.1.xml"
+    ],
+    "shave.v.02": [
+        "dress-41.1.1.xml",
+        "floss-41.2.1.xml"
+    ],
+    "shower.v.03": [
+        "dress-41.1.1.xml"
+    ],
+    "wash.v.03": [
+        "dress-41.1.1.xml",
+        "floss-41.2.1.xml"
+    ],
+    "spruce_up.v.02": [
+        "dressing_well-41.3.2.xml"
+    ],
+    "bicycle.v.01": [
+        "drive-11.5.xml",
+        "nonvehicle-51.4.2.xml"
+    ],
+    "drive.v.03": [
+        "drive-11.5.xml",
+        "nonvehicle-51.4.2.xml"
+    ],
+    "row.v.01": [
+        "drive-11.5.xml",
+        "nonvehicle-51.4.2.xml"
+    ],
+    "drive.v.02": [
+        "drive-11.5.xml",
+        "nonvehicle-51.4.2.xml",
+        "vehicle-51.4.1.xml"
+    ],
+    "paddle.v.01": [
+        "drive-11.5.xml",
+        "nonvehicle-51.4.2.xml"
+    ],
+    "tool.v.01": [
+        "drive-11.5.xml"
+    ],
+    "joyride.v.01": [
+        "drive-11.5.xml",
+        "drive-11.5.xml"
+    ],
+    "trundle.v.01": [
+        "drive-11.5.xml",
+        "run-51.3.2.xml"
+    ],
+    "wheel.v.02": [
+        "drive-11.5.xml"
+    ],
+    "name.v.01": [
+        "dub-29.3.xml",
+        "dub-29.3.xml"
+    ],
+    "call.v.02": [
+        "dub-29.3.xml"
+    ],
+    "address.v.06": [
+        "dub-29.3.xml"
+    ],
+    "rule.v.02": [
+        "dub-29.3.xml",
+        "dub-29.3.xml"
+    ],
+    "dub.v.01": [
+        "dub-29.3.xml",
+        "dub-29.3.xml"
+    ],
+    "pronounce.v.01": [
+        "dub-29.3.xml"
+    ],
+    "pronounce.v.02": [
+        "dub-29.3.xml",
+        "dub-29.3.xml"
+    ],
+    "rename.v.01": [
+        "dub-29.3.xml"
+    ],
+    "stamp.v.03": [
+        "dub-29.3.xml"
+    ],
+    "term.v.01": [
+        "dub-29.3.xml"
+    ],
+    "vote.v.05": [
+        "dub-29.3.xml"
+    ],
+    "anoint.v.02": [
+        "dub-29.3.xml"
+    ],
+    "baptize.v.01": [
+        "dub-29.3.xml",
+        "dub-29.3.xml"
+    ],
+    "post.v.12": [
+        "dub-29.3.xml"
+    ],
+    "vow.v.02": [
+        "dub-29.3.xml"
+    ],
+    "consecrate.v.04": [
+        "dub-29.3.xml"
+    ],
+    "style.v.01": [
+        "dub-29.3.xml"
+    ],
+    "commiserate.v.01": [
+        "empathize-88.2.xml",
+        "empathize-88.2.xml"
+    ],
+    "identify.v.03": [
+        "empathize-88.2.xml"
+    ],
+    "control.v.01": [
+        "enforce-63.xml"
+    ],
+    "enforce.v.02": [
+        "enforce-63.xml",
+        "enforce-63.xml"
+    ],
+    "cause.v.01": [
+        "engender-27.xml"
+    ],
+    "make.v.03": [
+        "engender-27.xml"
+    ],
+    "create.v.02": [
+        "engender-27.xml"
+    ],
+    "generate.v.01": [
+        "engender-27.xml"
+    ],
+    "incite.v.02": [
+        "engender-27.xml",
+        "engender-27.xml",
+        "engender-27.xml",
+        "engender-27.xml"
+    ],
+    "inspire.v.01": [
+        "engender-27.xml"
+    ],
+    "inspire.v.02": [
+        "engender-27.xml"
+    ],
+    "produce.v.03": [
+        "engender-27.xml"
+    ],
+    "provoke.v.02": [
+        "engender-27.xml",
+        "engender-27.xml"
+    ],
+    "trip.v.04": [
+        "engender-27.xml",
+        "engender-27.xml",
+        "engender-27.xml",
+        "other_cos-45.4.xml"
+    ],
+    "determine.v.02": [
+        "engender-27.xml"
+    ],
+    "motivate.v.01": [
+        "engender-27.xml",
+        "force-59.xml",
+        "force-59.xml",
+        "force-59.xml"
+    ],
+    "induce.v.03": [
+        "engender-27.xml",
+        "other_cos-45.4.xml"
+    ],
+    "provoke.v.03": [
+        "engender-27.xml"
+    ],
+    "guarantee.v.02": [
+        "ensure-99.xml",
+        "ensure-99.xml",
+        "ensure-99.xml",
+        "ensure-99.xml",
+        "ensure-99.xml"
+    ],
+    "see.v.10": [
+        "ensure-99.xml"
+    ],
+    "reinsure.v.01": [
+        "ensure-99.xml"
+    ],
+    "reinsure.v.02": [
+        "ensure-99.xml"
+    ],
+    "reinsure.v.03": [
+        "ensure-99.xml"
+    ],
+    "billow.v.01": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "bloom.v.01": [
+        "entity_specific_modes_being-47.2.xml",
+        "entity_specific_modes_being-47.2.xml",
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "bristle.v.02": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "bulge.v.02": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "burn.v.02": [
+        "entity_specific_modes_being-47.2.xml",
+        "light_emission-43.1.xml",
+        "light_emission-43.1.xml",
+        "other_cos-45.4.xml"
+    ],
+    "foam.v.01": [
+        "entity_specific_modes_being-47.2.xml",
+        "entity_specific_modes_being-47.2.xml",
+        "entity_specific_modes_being-47.2.xml",
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "fester.v.01": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "run.v.06": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "hang.v.05": [
+        "entity_specific_modes_being-47.2.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "flow.v.01": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "froth.v.02": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "churn.v.02": [
+        "entity_specific_modes_being-47.2.xml",
+        "entity_specific_modes_being-47.2.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "propagate.v.02": [
+        "entity_specific_modes_being-47.2.xml",
+        "other_cos-45.4.xml"
+    ],
+    "propagate.v.08": [
+        "entity_specific_modes_being-47.2.xml",
+        "other_cos-45.4.xml"
+    ],
+    "rage.v.02": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "ripple.v.02": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "seethe.v.03": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "seethe.v.04": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "smolder.v.01": [
+        "entity_specific_modes_being-47.2.xml"
+    ],
+    "shoot.v.19": [
+        "entity_specific_modes_being-47.2.xml",
+        "other_cos-45.4.xml"
+    ],
+    "sprout.v.02": [
+        "entity_specific_modes_being-47.2.xml",
+        "other_cos-45.4.xml"
+    ],
+    "charge.v.18": [
+        "equip-13.4.2.xml"
+    ],
+    "endow.v.01": [
+        "equip-13.4.2.xml"
+    ],
+    "invest.v.03": [
+        "equip-13.4.2.xml"
+    ],
+    "invest.v.04": [
+        "equip-13.4.2.xml"
+    ],
+    "provide.v.02": [
+        "equip-13.4.2.xml"
+    ],
+    "approach.v.01": [
+        "escape-51.1.xml"
+    ],
+    "come.v.01": [
+        "escape-51.1.xml"
+    ],
+    "arrive.v.01": [
+        "escape-51.1.xml",
+        "escape-51.1.xml"
+    ],
+    "decamp.v.03": [
+        "escape-51.1.xml"
+    ],
+    "abscond.v.01": [
+        "escape-51.1.xml",
+        "escape-51.1.xml",
+        "run-51.3.2.xml"
+    ],
+    "decamp.v.01": [
+        "escape-51.1.xml"
+    ],
+    "fall.v.01": [
+        "escape-51.1.xml"
+    ],
+    "fall.v.23": [
+        "escape-51.1.xml"
+    ],
+    "fall.v.24": [
+        "escape-51.1.xml"
+    ],
+    "file.v.03": [
+        "escape-51.1.xml"
+    ],
+    "travel.v.01": [
+        "escape-51.1.xml",
+        "roll-51.3.1.xml",
+        "slide-11.2.xml"
+    ],
+    "go.v.03": [
+        "escape-51.1.xml"
+    ],
+    "plunge.v.03": [
+        "escape-51.1.xml"
+    ],
+    "plunge.v.06": [
+        "escape-51.1.xml"
+    ],
+    "withdraw.v.01": [
+        "escape-51.1.xml",
+        "escape-51.1.xml",
+        "escape-51.1.xml"
+    ],
+    "fall_back.v.04": [
+        "escape-51.1.xml"
+    ],
+    "recede.v.03": [
+        "escape-51.1.xml"
+    ],
+    "rise.v.01": [
+        "escape-51.1.xml"
+    ],
+    "arise.v.03": [
+        "escape-51.1.xml"
+    ],
+    "surface.v.01": [
+        "escape-51.1.xml"
+    ],
+    "get_up.v.02": [
+        "escape-51.1.xml"
+    ],
+    "rise.v.16": [
+        "escape-51.1.xml"
+    ],
+    "tumble.v.01": [
+        "escape-51.1.xml",
+        "other_cos-45.4.xml"
+    ],
+    "tumble.v.03": [
+        "escape-51.1.xml"
+    ],
+    "depart.v.03": [
+        "escape-51.1.xml",
+        "escape-51.1.xml"
+    ],
+    "run_off.v.02": [
+        "escape-51.1.xml"
+    ],
+    "emerge.v.01": [
+        "escape-51.1.xml"
+    ],
+    "emigrate.v.01": [
+        "escape-51.1.xml"
+    ],
+    "retreat.v.02": [
+        "escape-51.1.xml"
+    ],
+    "skedaddle.v.01": [
+        "escape-51.1.xml",
+        "run-51.3.2.xml"
+    ],
+    "establish.v.02": [
+        "establish-55.5.xml"
+    ],
+    "constitutionalize.v.01": [
+        "establish-55.5.xml"
+    ],
+    "introduce.v.02": [
+        "establish-55.5.xml"
+    ],
+    "organize.v.05": [
+        "establish-55.5.xml"
+    ],
+    "stage.v.02": [
+        "establish-55.5.xml"
+    ],
+    "estimate.v.01": [
+        "estimate-34.2.xml",
+        "estimate-34.2.xml",
+        "estimate-34.2.xml",
+        "estimate-34.2.xml",
+        "estimate-34.2.xml",
+        "price-54.4.xml",
+        "price-54.4.xml",
+        "price-54.4.xml"
+    ],
+    "guesstimate.v.01": [
+        "estimate-34.2.xml"
+    ],
+    "overcome.v.02": [
+        "exceed-90.xml"
+    ],
+    "vault.v.01": [
+        "exceed-90.xml"
+    ],
+    "exceed.v.01": [
+        "exceed-90.xml"
+    ],
+    "exceed.v.02": [
+        "exceed-90.xml"
+    ],
+    "barter.v.01": [
+        "exchange-13.6.xml"
+    ],
+    "replace.v.01": [
+        "exchange-13.6.xml"
+    ],
+    "substitute.v.01": [
+        "exchange-13.6.xml"
+    ],
+    "spread.v.03": [
+        "exist-47.1.xml"
+    ],
+    "bottlefeed.v.01": [
+        "feeding-39.7.xml"
+    ],
+    "breastfeed.v.01": [
+        "feeding-39.7.xml"
+    ],
+    "feed.v.01": [
+        "feeding-39.7.xml"
+    ],
+    "feed.v.02": [
+        "feeding-39.7.xml"
+    ],
+    "force-feed.v.01": [
+        "feeding-39.7.xml"
+    ],
+    "spoonfeed.v.01": [
+        "feeding-39.7.xml"
+    ],
+    "ferret_out.v.01": [
+        "ferret-35.6.xml"
+    ],
+    "scent.v.02": [
+        "ferret-35.6.xml",
+        "sight-30.2.xml",
+        "stalk-35.3.xml"
+    ],
+    "displace.v.03": [
+        "fire-10.10.xml",
+        "fire-10.10.xml",
+        "fire-10.10.xml",
+        "fire-10.10.xml",
+        "fire-10.10.xml",
+        "fire-10.10.xml",
+        "fire-10.10.xml",
+        "remove-10.1.xml"
+    ],
+    "dismiss.v.03": [
+        "fire-10.10.xml"
+    ],
+    "drop.v.05": [
+        "fire-10.10.xml"
+    ],
+    "unseat.v.01": [
+        "fire-10.10.xml"
+    ],
+    "suspend.v.03": [
+        "fire-10.10.xml"
+    ],
+    "furlough.v.01": [
+        "fire-10.10.xml"
+    ],
+    "hold.v.11": [
+        "fit-54.3.xml"
+    ],
+    "carry.v.12": [
+        "fit-54.3.xml"
+    ],
+    "carry.v.31": [
+        "fit-54.3.xml"
+    ],
+    "carry.v.34": [
+        "fit-54.3.xml"
+    ],
+    "contain.v.05": [
+        "fit-54.3.xml",
+        "fit-54.3.xml",
+        "fit-54.3.xml"
+    ],
+    "fit.v.02": [
+        "fit-54.3.xml"
+    ],
+    "fit.v.07": [
+        "fit-54.3.xml"
+    ],
+    "feed.v.07": [
+        "fit-54.3.xml"
+    ],
+    "accommodate.v.04": [
+        "fit-54.3.xml"
+    ],
+    "house.v.02": [
+        "fit-54.3.xml",
+        "pocket-9.10.xml"
+    ],
+    "reseat.v.01": [
+        "fit-54.3.xml"
+    ],
+    "reseat.v.02": [
+        "fit-54.3.xml"
+    ],
+    "reseat.v.03": [
+        "fit-54.3.xml"
+    ],
+    "seat.v.02": [
+        "fit-54.3.xml"
+    ],
+    "service.v.01": [
+        "fit-54.3.xml"
+    ],
+    "sleep.v.02": [
+        "fit-54.3.xml"
+    ],
+    "store.v.02": [
+        "fit-54.3.xml",
+        "keep-15.2.xml"
+    ],
+    "use.v.01": [
+        "fit-54.3.xml",
+        "use-105.xml",
+        "use-105.xml",
+        "use-105.xml",
+        "use-105.xml"
+    ],
+    "floss.v.01": [
+        "floss-41.2.1.xml"
+    ],
+    "concentrate.v.02": [
+        "focus-87.1.xml",
+        "focus-87.1.xml",
+        "focus-87.1.xml"
+    ],
+    "localize.v.02": [
+        "focus-87.1.xml"
+    ],
+    "concenter.v.01": [
+        "focus-87.1.xml"
+    ],
+    "focus.v.04": [
+        "focus-87.1.xml"
+    ],
+    "focus_on.v.01": [
+        "focus-87.1.xml"
+    ],
+    "brood.v.01": [
+        "focus-87.1.xml"
+    ],
+    "fixate.v.01": [
+        "focus-87.1.xml"
+    ],
+    "fixate.v.02": [
+        "focus-87.1.xml"
+    ],
+    "ban.v.02": [
+        "forbid-67.xml"
+    ],
+    "bar.v.01": [
+        "forbid-67.xml"
+    ],
+    "obstruct.v.01": [
+        "forbid-67.xml",
+        "forbid-67.xml",
+        "forbid-67.xml"
+    ],
+    "stop.v.03": [
+        "forbid-67.xml",
+        "forbid-67.xml",
+        "stop-55.4.xml"
+    ],
+    "dissuade.v.01": [
+        "forbid-67.xml",
+        "forbid-67.xml"
+    ],
+    "forbid.v.01": [
+        "forbid-67.xml",
+        "forbid-67.xml"
+    ],
+    "prevent.v.01": [
+        "forbid-67.xml",
+        "forbid-67.xml",
+        "forbid-67.xml"
+    ],
+    "hamper.v.01": [
+        "forbid-67.xml"
+    ],
+    "impede.v.01": [
+        "forbid-67.xml",
+        "forbid-67.xml"
+    ],
+    "suppress.v.01": [
+        "forbid-67.xml"
+    ],
+    "prevent.v.02": [
+        "forbid-67.xml"
+    ],
+    "intimidate.v.02": [
+        "forbid-67.xml"
+    ],
+    "bamboozle.v.01": [
+        "force-59.xml"
+    ],
+    "wheedle.v.01": [
+        "force-59.xml",
+        "force-59.xml",
+        "force-59.xml",
+        "force-59.xml"
+    ],
+    "coerce.v.01": [
+        "force-59.xml",
+        "force-59.xml"
+    ],
+    "commission.v.03": [
+        "force-59.xml"
+    ],
+    "compel.v.01": [
+        "force-59.xml",
+        "force-59.xml",
+        "force-59.xml"
+    ],
+    "deceive.v.01": [
+        "force-59.xml"
+    ],
+    "cozen.v.02": [
+        "force-59.xml"
+    ],
+    "defy.v.03": [
+        "force-59.xml"
+    ],
+    "encourage.v.03": [
+        "force-59.xml"
+    ],
+    "impel.v.01": [
+        "force-59.xml",
+        "force-59.xml"
+    ],
+    "spur.v.02": [
+        "force-59.xml"
+    ],
+    "goad.v.02": [
+        "force-59.xml"
+    ],
+    "goad.v.03": [
+        "force-59.xml",
+        "poke-19.xml"
+    ],
+    "needle.v.01": [
+        "force-59.xml"
+    ],
+    "induce.v.02": [
+        "force-59.xml"
+    ],
+    "jolt.v.01": [
+        "force-59.xml"
+    ],
+    "lead.v.05": [
+        "force-59.xml"
+    ],
+    "misinform.v.01": [
+        "force-59.xml"
+    ],
+    "persuade.v.02": [
+        "force-59.xml"
+    ],
+    "urge.v.01": [
+        "force-59.xml",
+        "urge-58.1.xml",
+        "urge-58.1.xml",
+        "urge-58.1.xml"
+    ],
+    "prod.v.02": [
+        "force-59.xml",
+        "urge-58.1.xml"
+    ],
+    "push.v.01": [
+        "force-59.xml",
+        "split-23.2.xml"
+    ],
+    "push.v.02": [
+        "force-59.xml"
+    ],
+    "rush.v.03": [
+        "force-59.xml",
+        "rush-53.2.xml",
+        "rush-53.2.xml"
+    ],
+    "flim-flam.v.01": [
+        "force-59.xml"
+    ],
+    "spur.v.01": [
+        "force-59.xml"
+    ],
+    "steamroller.v.01": [
+        "force-59.xml"
+    ],
+    "steamroller.v.04": [
+        "force-59.xml"
+    ],
+    "suborn.v.01": [
+        "force-59.xml"
+    ],
+    "suborn.v.03": [
+        "force-59.xml"
+    ],
+    "carry.v.23": [
+        "force-59.xml"
+    ],
+    "talk_through_one's_hat.v.01": [
+        "force-59.xml"
+    ],
+    "dragoon.v.01": [
+        "force-59.xml",
+        "force-59.xml",
+        "force-59.xml"
+    ],
+    "hound.v.01": [
+        "force-59.xml",
+        "hunt-35.1.xml"
+    ],
+    "emancipate.v.01": [
+        "free-80.xml"
+    ],
+    "free.v.06": [
+        "free-80.xml"
+    ],
+    "acquit.v.01": [
+        "free-80.xml",
+        "free-80.xml"
+    ],
+    "dunk.v.01": [
+        "funnel-9.3.xml",
+        "funnel-9.3.xml",
+        "other_cos-45.4.xml"
+    ],
+    "dunk.v.03": [
+        "funnel-9.3.xml",
+        "funnel-9.3.xml"
+    ],
+    "ladle.v.01": [
+        "funnel-9.3.xml"
+    ],
+    "hoe.v.01": [
+        "funnel-9.3.xml"
+    ],
+    "scoop.v.01": [
+        "funnel-9.3.xml"
+    ],
+    "siphon.v.02": [
+        "funnel-9.3.xml"
+    ],
+    "sop.v.03": [
+        "funnel-9.3.xml"
+    ],
+    "steer.v.01": [
+        "funnel-9.3.xml"
+    ],
+    "deal.v.09": [
+        "give-13.1.xml"
+    ],
+    "share.v.04": [
+        "give-13.1.xml"
+    ],
+    "deal.v.12": [
+        "give-13.1.xml"
+    ],
+    "lend.v.02": [
+        "give-13.1.xml",
+        "give-13.1.xml"
+    ],
+    "pass.v.05": [
+        "give-13.1.xml",
+        "send-11.1.xml"
+    ],
+    "pass.v.20": [
+        "give-13.1.xml"
+    ],
+    "fall.v.21": [
+        "give-13.1.xml"
+    ],
+    "pass.v.22": [
+        "give-13.1.xml"
+    ],
+    "peddle.v.01": [
+        "give-13.1.xml"
+    ],
+    "refund.v.01": [
+        "give-13.1.xml"
+    ],
+    "supply.v.01": [
+        "give-13.1.xml"
+    ],
+    "render.v.06": [
+        "give-13.1.xml"
+    ],
+    "render.v.07": [
+        "give-13.1.xml",
+        "send-11.1.xml"
+    ],
+    "hand_over.v.01": [
+        "give-13.1.xml"
+    ],
+    "exist.v.02": [
+        "gorge-39.6.xml",
+        "gorge-39.6.xml"
+    ],
+    "feed.v.06": [
+        "gorge-39.6.xml"
+    ],
+    "boom.v.05": [
+        "gorge-39.6.xml",
+        "gorge-39.6.xml"
+    ],
+    "gorge.v.01": [
+        "gorge-39.6.xml"
+    ],
+    "survive.v.01": [
+        "gorge-39.6.xml",
+        "gorge-39.6.xml"
+    ],
+    "thrive.v.02": [
+        "gorge-39.6.xml"
+    ],
+    "dress.v.15": [
+        "groom-41.1.2.xml",
+        "groom-41.1.2.xml"
+    ],
+    "groom.v.03": [
+        "groom-41.1.2.xml"
+    ],
+    "develop.v.10": [
+        "grow-26.2.xml"
+    ],
+    "develop.v.12": [
+        "grow-26.2.xml"
+    ],
+    "develop.v.13": [
+        "grow-26.2.xml"
+    ],
+    "develop.v.14": [
+        "grow-26.2.xml",
+        "grow-26.2.xml"
+    ],
+    "evolve.v.02": [
+        "grow-26.2.xml"
+    ],
+    "develop.v.03": [
+        "grow-26.2.xml"
+    ],
+    "render.v.04": [
+        "grow-26.2.xml"
+    ],
+    "generate.v.03": [
+        "grow-26.2.xml"
+    ],
+    "grow.v.03": [
+        "grow-26.2.xml",
+        "other_cos-45.4.xml"
+    ],
+    "grow.v.04": [
+        "grow-26.2.xml",
+        "other_cos-45.4.xml"
+    ],
+    "mature.v.01": [
+        "grow-26.2.xml",
+        "grow-26.2.xml",
+        "grow-26.2.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "grow.v.07": [
+        "grow-26.2.xml",
+        "other_cos-45.4.xml"
+    ],
+    "hatch.v.01": [
+        "grow-26.2.xml"
+    ],
+    "brood.v.05": [
+        "grow-26.2.xml",
+        "other_cos-45.4.xml"
+    ],
+    "senesce.v.01": [
+        "grow-26.2.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "redevelop.v.01": [
+        "grow-26.2.xml"
+    ],
+    "redevelop.v.03": [
+        "grow-26.2.xml"
+    ],
+    "succor.v.01": [
+        "help-72.xml"
+    ],
+    "roll_up.v.02": [
+        "herd-47.5.2.xml",
+        "herd-47.5.2.xml",
+        "herd-47.5.2.xml",
+        "other_cos-45.4.xml"
+    ],
+    "accumulate.v.02": [
+        "herd-47.5.2.xml",
+        "herd-47.5.2.xml",
+        "herd-47.5.2.xml"
+    ],
+    "aggregate.v.02": [
+        "herd-47.5.2.xml"
+    ],
+    "meet.v.07": [
+        "herd-47.5.2.xml",
+        "herd-47.5.2.xml"
+    ],
+    "assemble.v.03": [
+        "herd-47.5.2.xml",
+        "herd-47.5.2.xml"
+    ],
+    "bunch.v.02": [
+        "herd-47.5.2.xml"
+    ],
+    "gather.v.01": [
+        "herd-47.5.2.xml",
+        "herd-47.5.2.xml"
+    ],
+    "collect.v.04": [
+        "herd-47.5.2.xml",
+        "other_cos-45.4.xml"
+    ],
+    "congregate.v.01": [
+        "herd-47.5.2.xml"
+    ],
+    "convene.v.01": [
+        "herd-47.5.2.xml"
+    ],
+    "convoke.v.01": [
+        "herd-47.5.2.xml"
+    ],
+    "flock.v.01": [
+        "herd-47.5.2.xml"
+    ],
+    "group.v.02": [
+        "herd-47.5.2.xml"
+    ],
+    "herd.v.01": [
+        "herd-47.5.2.xml"
+    ],
+    "herd.v.02": [
+        "herd-47.5.2.xml"
+    ],
+    "herd.v.03": [
+        "herd-47.5.2.xml"
+    ],
+    "huddle.v.01": [
+        "herd-47.5.2.xml"
+    ],
+    "mass.v.01": [
+        "herd-47.5.2.xml"
+    ],
+    "reconvene.v.01": [
+        "herd-47.5.2.xml"
+    ],
+    "burp.v.01": [
+        "hiccup-40.1.1.xml",
+        "hiccup-40.1.1.xml",
+        "hiccup-40.1.1.xml"
+    ],
+    "blush.v.01": [
+        "hiccup-40.1.1.xml",
+        "hiccup-40.1.1.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "fart.v.01": [
+        "hiccup-40.1.1.xml"
+    ],
+    "hiccup.v.01": [
+        "hiccup-40.1.1.xml"
+    ],
+    "pant.v.01": [
+        "hiccup-40.1.1.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "sneeze.v.01": [
+        "hiccup-40.1.1.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "sniff.v.02": [
+        "hiccup-40.1.1.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "snore.v.01": [
+        "hiccup-40.1.1.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "snuff.v.02": [
+        "hiccup-40.1.1.xml"
+    ],
+    "snuffle.v.02": [
+        "hiccup-40.1.1.xml"
+    ],
+    "swallow.v.01": [
+        "hiccup-40.1.1.xml"
+    ],
+    "wheeze.v.01": [
+        "hiccup-40.1.1.xml"
+    ],
+    "yawn.v.01": [
+        "hiccup-40.1.1.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "hire.v.01": [
+        "hire-13.5.3.xml",
+        "hire-13.5.3.xml",
+        "hire-13.5.3.xml"
+    ],
+    "sign.v.04": [
+        "hire-13.5.3.xml",
+        "hire-13.5.3.xml",
+        "hire-13.5.3.xml",
+        "hire-13.5.3.xml"
+    ],
+    "lease.v.04": [
+        "hire-13.5.3.xml"
+    ],
+    "subcontract.v.02": [
+        "hire-13.5.3.xml"
+    ],
+    "prepare.v.05": [
+        "hire-13.5.3.xml"
+    ],
+    "engage.v.08": [
+        "hire-13.5.3.xml",
+        "involve-107.xml"
+    ],
+    "enlist.v.03": [
+        "hire-13.5.3.xml"
+    ],
+    "reinstate.v.01": [
+        "hire-13.5.3.xml"
+    ],
+    "slam.v.02": [
+        "hit-18.1.xml",
+        "spank-18.3.xml"
+    ],
+    "slam.v.01": [
+        "hit-18.1.xml",
+        "spank-18.3.xml"
+    ],
+    "sock.v.01": [
+        "hit-18.1.xml",
+        "spank-18.3.xml",
+        "spank-18.3.xml"
+    ],
+    "snap.v.10": [
+        "hit-18.1.xml"
+    ],
+    "crash.v.10": [
+        "hit-18.1.xml"
+    ],
+    "tamp_down.v.01": [
+        "hit-18.1.xml"
+    ],
+    "thump.v.03": [
+        "hit-18.1.xml",
+        "spank-18.3.xml"
+    ],
+    "smack.v.01": [
+        "hit-18.1.xml"
+    ],
+    "whack.v.01": [
+        "hit-18.1.xml",
+        "spank-18.3.xml"
+    ],
+    "smite.v.01": [
+        "hit-18.1.xml"
+    ],
+    "afflict.v.02": [
+        "hit-18.1.xml"
+    ],
+    "dig.v.01": [
+        "hunt-35.1.xml"
+    ],
+    "excavate.v.04": [
+        "hunt-35.1.xml"
+    ],
+    "feel.v.08": [
+        "hunt-35.1.xml"
+    ],
+    "feel.v.11": [
+        "hunt-35.1.xml"
+    ],
+    "hunt.v.01": [
+        "hunt-35.1.xml"
+    ],
+    "hunt.v.06": [
+        "hunt-35.1.xml"
+    ],
+    "hunt.v.07": [
+        "hunt-35.1.xml"
+    ],
+    "mine.v.01": [
+        "hunt-35.1.xml",
+        "mine-10.9.xml"
+    ],
+    "poach.v.01": [
+        "hunt-35.1.xml"
+    ],
+    "scrounge.v.01": [
+        "hunt-35.1.xml"
+    ],
+    "seek.v.01": [
+        "hunt-35.1.xml"
+    ],
+    "seek.v.05": [
+        "hunt-35.1.xml"
+    ],
+    "chafe.v.04": [
+        "hurt-40.8.3.xml"
+    ],
+    "address.v.03": [
+        "illustrate-25.3.xml"
+    ],
+    "decorate.v.01": [
+        "illustrate-25.3.xml",
+        "illustrate-25.3.xml",
+        "illustrate-25.3.xml"
+    ],
+    "autograph.v.01": [
+        "illustrate-25.3.xml"
+    ],
+    "bead.v.02": [
+        "illustrate-25.3.xml"
+    ],
+    "bead.v.03": [
+        "illustrate-25.3.xml"
+    ],
+    "brand.v.01": [
+        "illustrate-25.3.xml"
+    ],
+    "date.v.02": [
+        "illustrate-25.3.xml"
+    ],
+    "date.v.05": [
+        "illustrate-25.3.xml"
+    ],
+    "dress.v.09": [
+        "illustrate-25.3.xml"
+    ],
+    "embroider.v.02": [
+        "illustrate-25.3.xml"
+    ],
+    "endorse.v.04": [
+        "illustrate-25.3.xml"
+    ],
+    "frost.v.01": [
+        "illustrate-25.3.xml",
+        "other_cos-45.4.xml"
+    ],
+    "illuminate.v.03": [
+        "illustrate-25.3.xml"
+    ],
+    "illustrate.v.03": [
+        "illustrate-25.3.xml"
+    ],
+    "initial.v.01": [
+        "illustrate-25.3.xml"
+    ],
+    "tag.v.01": [
+        "illustrate-25.3.xml",
+        "illustrate-25.3.xml",
+        "image_impression-25.1.xml"
+    ],
+    "letter.v.03": [
+        "illustrate-25.3.xml"
+    ],
+    "redecorate.v.01": [
+        "illustrate-25.3.xml"
+    ],
+    "applique.v.01": [
+        "image_impression-25.1.xml"
+    ],
+    "emboss.v.01": [
+        "image_impression-25.1.xml"
+    ],
+    "embroider.v.01": [
+        "image_impression-25.1.xml"
+    ],
+    "scratch.v.07": [
+        "image_impression-25.1.xml",
+        "image_impression-25.1.xml"
+    ],
+    "engrave.v.03": [
+        "image_impression-25.1.xml"
+    ],
+    "etch.v.01": [
+        "image_impression-25.1.xml"
+    ],
+    "impress.v.04": [
+        "image_impression-25.1.xml"
+    ],
+    "incise.v.01": [
+        "image_impression-25.1.xml"
+    ],
+    "ingrain.v.01": [
+        "image_impression-25.1.xml"
+    ],
+    "inscribe.v.04": [
+        "image_impression-25.1.xml"
+    ],
+    "score.v.02": [
+        "image_impression-25.1.xml"
+    ],
+    "set.v.06": [
+        "image_impression-25.1.xml"
+    ],
+    "sign.v.01": [
+        "image_impression-25.1.xml"
+    ],
+    "sign.v.02": [
+        "image_impression-25.1.xml"
+    ],
+    "stamp.v.04": [
+        "image_impression-25.1.xml"
+    ],
+    "stipple.v.01": [
+        "image_impression-25.1.xml"
+    ],
+    "tattoo.v.01": [
+        "image_impression-25.1.xml"
+    ],
+    "tool.v.04": [
+        "image_impression-25.1.xml"
+    ],
+    "imply.v.01": [
+        "indicate-78.xml"
+    ],
+    "imply.v.02": [
+        "indicate-78.xml"
+    ],
+    "incriminate.v.01": [
+        "indicate-78.xml"
+    ],
+    "bode.v.01": [
+        "indicate-78.xml",
+        "indicate-78.xml"
+    ],
+    "predict.v.01": [
+        "indicate-78.xml",
+        "indicate-78.xml"
+    ],
+    "ask.v.03": [
+        "inquire-37.1.2.xml"
+    ],
+    "ask.v.05": [
+        "inquire-37.1.2.xml"
+    ],
+    "wonder.v.01": [
+        "inquire-37.1.2.xml"
+    ],
+    "consult.v.01": [
+        "inquire-37.1.2.xml"
+    ],
+    "consult.v.02": [
+        "inquire-37.1.2.xml"
+    ],
+    "intrude.v.03": [
+        "inquire-37.1.2.xml",
+        "rummage-35.5.xml"
+    ],
+    "cable.v.01": [
+        "instr_communication-37.4.xml",
+        "instr_communication-37.4.xml",
+        "instr_communication-37.4.xml"
+    ],
+    "e-mail.v.01": [
+        "instr_communication-37.4.xml",
+        "instr_communication-37.4.xml"
+    ],
+    "fax.v.01": [
+        "instr_communication-37.4.xml"
+    ],
+    "call.v.03": [
+        "instr_communication-37.4.xml",
+        "instr_communication-37.4.xml"
+    ],
+    "radio.v.01": [
+        "instr_communication-37.4.xml"
+    ],
+    "relay.v.01": [
+        "instr_communication-37.4.xml"
+    ],
+    "satellite.v.01": [
+        "instr_communication-37.4.xml"
+    ],
+    "semaphore.v.01": [
+        "instr_communication-37.4.xml"
+    ],
+    "semaphore.v.02": [
+        "instr_communication-37.4.xml"
+    ],
+    "sign.v.05": [
+        "instr_communication-37.4.xml",
+        "instr_communication-37.4.xml"
+    ],
+    "sign.v.07": [
+        "instr_communication-37.4.xml"
+    ],
+    "telecast.v.01": [
+        "instr_communication-37.4.xml",
+        "transcribe-25.4.xml"
+    ],
+    "telex.v.01": [
+        "instr_communication-37.4.xml"
+    ],
+    "cross_examine.v.01": [
+        "interrogate-37.1.3.xml"
+    ],
+    "interrogate.v.02": [
+        "interrogate-37.1.3.xml",
+        "interrogate-37.1.3.xml"
+    ],
+    "question.v.03": [
+        "interrogate-37.1.3.xml"
+    ],
+    "interview.v.01": [
+        "interrogate-37.1.3.xml"
+    ],
+    "poll.v.01": [
+        "investigate-35.4.xml"
+    ],
+    "canvass.v.02": [
+        "investigate-35.4.xml"
+    ],
+    "explore.v.03": [
+        "investigate-35.4.xml"
+    ],
+    "examine.v.02": [
+        "investigate-35.4.xml",
+        "sight-30.2.xml"
+    ],
+    "probe.v.01": [
+        "investigate-35.4.xml"
+    ],
+    "frisk.v.02": [
+        "investigate-35.4.xml"
+    ],
+    "inspect.v.01": [
+        "investigate-35.4.xml",
+        "sight-30.2.xml"
+    ],
+    "visit.v.04": [
+        "investigate-35.4.xml",
+        "sight-30.2.xml"
+    ],
+    "investigate.v.01": [
+        "investigate-35.4.xml",
+        "sight-30.2.xml"
+    ],
+    "investigate.v.02": [
+        "investigate-35.4.xml",
+        "sight-30.2.xml"
+    ],
+    "monitor.v.01": [
+        "investigate-35.4.xml"
+    ],
+    "watch.v.02": [
+        "investigate-35.4.xml",
+        "sight-30.2.xml",
+        "sight-30.2.xml"
+    ],
+    "picket.v.01": [
+        "investigate-35.4.xml"
+    ],
+    "quiz.v.01": [
+        "investigate-35.4.xml"
+    ],
+    "raid.v.01": [
+        "investigate-35.4.xml"
+    ],
+    "comb.v.02": [
+        "investigate-35.4.xml"
+    ],
+    "flick.v.02": [
+        "investigate-35.4.xml",
+        "rummage-35.5.xml"
+    ],
+    "scan.v.01": [
+        "investigate-35.4.xml",
+        "sight-30.2.xml"
+    ],
+    "scan.v.02": [
+        "investigate-35.4.xml",
+        "sight-30.2.xml"
+    ],
+    "scan.v.03": [
+        "investigate-35.4.xml"
+    ],
+    "surveil.v.01": [
+        "investigate-35.4.xml",
+        "investigate-35.4.xml",
+        "sight-30.2.xml",
+        "sight-30.2.xml"
+    ],
+    "survey.v.01": [
+        "investigate-35.4.xml"
+    ],
+    "survey.v.02": [
+        "investigate-35.4.xml",
+        "sight-30.2.xml"
+    ],
+    "wiretap.v.01": [
+        "investigate-35.4.xml"
+    ],
+    "screen.v.01": [
+        "investigate-35.4.xml"
+    ],
+    "involve.v.02": [
+        "involve-107.xml"
+    ],
+    "include.v.03": [
+        "involve-107.xml"
+    ],
+    "enroll.v.01": [
+        "involve-107.xml"
+    ],
+    "hoard.v.01": [
+        "keep-15.2.xml"
+    ],
+    "keep.v.18": [
+        "keep-15.2.xml"
+    ],
+    "keep.v.19": [
+        "keep-15.2.xml"
+    ],
+    "keep.v.20": [
+        "keep-15.2.xml"
+    ],
+    "entrust.v.02": [
+        "keep-15.2.xml"
+    ],
+    "forget.v.04": [
+        "keep-15.2.xml"
+    ],
+    "store.v.01": [
+        "keep-15.2.xml"
+    ],
+    "stock.v.01": [
+        "keep-15.2.xml",
+        "keep-15.2.xml"
+    ],
+    "abandon.v.01": [
+        "leave-51.2.xml"
+    ],
+    "vacate.v.02": [
+        "leave-51.2.xml"
+    ],
+    "shine.v.02": [
+        "light_emission-43.1.xml",
+        "light_emission-43.1.xml"
+    ],
+    "flash.v.01": [
+        "light_emission-43.1.xml",
+        "light_emission-43.1.xml",
+        "light_emission-43.1.xml"
+    ],
+    "flame.v.02": [
+        "light_emission-43.1.xml"
+    ],
+    "flare.v.01": [
+        "light_emission-43.1.xml"
+    ],
+    "flare.v.03": [
+        "light_emission-43.1.xml"
+    ],
+    "flash.v.08": [
+        "light_emission-43.1.xml"
+    ],
+    "flicker.v.01": [
+        "light_emission-43.1.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "flicker.v.02": [
+        "light_emission-43.1.xml"
+    ],
+    "flicker.v.03": [
+        "light_emission-43.1.xml"
+    ],
+    "glare.v.02": [
+        "light_emission-43.1.xml"
+    ],
+    "glare.v.03": [
+        "light_emission-43.1.xml"
+    ],
+    "glitter.v.01": [
+        "light_emission-43.1.xml",
+        "light_emission-43.1.xml",
+        "light_emission-43.1.xml",
+        "light_emission-43.1.xml",
+        "light_emission-43.1.xml"
+    ],
+    "gleam.v.02": [
+        "light_emission-43.1.xml",
+        "light_emission-43.1.xml"
+    ],
+    "glow.v.01": [
+        "light_emission-43.1.xml"
+    ],
+    "incandesce.v.01": [
+        "light_emission-43.1.xml"
+    ],
+    "incandesce.v.02": [
+        "light_emission-43.1.xml"
+    ],
+    "twinkle.v.02": [
+        "light_emission-43.1.xml",
+        "light_emission-43.1.xml"
+    ],
+    "shimmer.v.01": [
+        "light_emission-43.1.xml"
+    ],
+    "reflect.v.04": [
+        "light_emission-43.1.xml"
+    ],
+    "fall.v.08": [
+        "light_emission-43.1.xml"
+    ],
+    "sparkle.v.01": [
+        "light_emission-43.1.xml"
+    ],
+    "restrict.v.03": [
+        "limit-76.xml",
+        "limit-76.xml",
+        "limit-76.xml",
+        "limit-76.xml"
+    ],
+    "reduce.v.01": [
+        "limit-76.xml"
+    ],
+    "dally.v.02": [
+        "linger-53.1.xml",
+        "linger-53.1.xml"
+    ],
+    "linger.v.04": [
+        "linger-53.1.xml",
+        "linger-53.1.xml"
+    ],
+    "dither.v.01": [
+        "linger-53.1.xml"
+    ],
+    "hesitate.v.01": [
+        "linger-53.1.xml"
+    ],
+    "hesitate.v.02": [
+        "linger-53.1.xml",
+        "linger-53.1.xml"
+    ],
+    "loiter.v.01": [
+        "linger-53.1.xml",
+        "linger-53.1.xml",
+        "linger-53.1.xml"
+    ],
+    "tarry.v.02": [
+        "linger-53.1.xml",
+        "linger-53.1.xml"
+    ],
+    "bum.v.02": [
+        "linger-53.1.xml"
+    ],
+    "pause.v.02": [
+        "linger-53.1.xml"
+    ],
+    "putter.v.02": [
+        "linger-53.1.xml"
+    ],
+    "procrastinate.v.01": [
+        "linger-53.1.xml"
+    ],
+    "procrastinate.v.02": [
+        "linger-53.1.xml"
+    ],
+    "putter.v.03": [
+        "linger-53.1.xml"
+    ],
+    "barrack.v.01": [
+        "lodge-46.xml",
+        "pocket-9.10.xml"
+    ],
+    "camp.v.01": [
+        "lodge-46.xml",
+        "lodge-46.xml"
+    ],
+    "board.v.02": [
+        "lodge-46.xml"
+    ],
+    "board.v.03": [
+        "lodge-46.xml"
+    ],
+    "bunk.v.02": [
+        "lodge-46.xml"
+    ],
+    "populate.v.01": [
+        "lodge-46.xml",
+        "lodge-46.xml"
+    ],
+    "lodge.v.01": [
+        "lodge-46.xml"
+    ],
+    "reside.v.01": [
+        "lodge-46.xml"
+    ],
+    "occupy.v.02": [
+        "lodge-46.xml"
+    ],
+    "settle.v.04": [
+        "lodge-46.xml"
+    ],
+    "settle.v.09": [
+        "lodge-46.xml"
+    ],
+    "settle.v.21": [
+        "lodge-46.xml"
+    ],
+    "stop.v.04": [
+        "lodge-46.xml"
+    ],
+    "bide.v.01": [
+        "lodge-46.xml"
+    ],
+    "woo.v.02": [
+        "marry-36.2.xml"
+    ],
+    "court.v.03": [
+        "marry-36.2.xml"
+    ],
+    "cuddle.v.01": [
+        "marry-36.2.xml",
+        "marry-36.2.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "cuddle.v.02": [
+        "marry-36.2.xml"
+    ],
+    "date.v.01": [
+        "marry-36.2.xml"
+    ],
+    "go_steady.v.01": [
+        "marry-36.2.xml"
+    ],
+    "disassociate.v.01": [
+        "marry-36.2.xml",
+        "separate-23.1.xml"
+    ],
+    "divorce.v.02": [
+        "marry-36.2.xml"
+    ],
+    "embrace.v.02": [
+        "marry-36.2.xml",
+        "marry-36.2.xml"
+    ],
+    "snog.v.01": [
+        "marry-36.2.xml"
+    ],
+    "marry.v.01": [
+        "marry-36.2.xml"
+    ],
+    "nuzzle.v.02": [
+        "marry-36.2.xml"
+    ],
+    "pet.v.01": [
+        "marry-36.2.xml"
+    ],
+    "pet.v.02": [
+        "marry-36.2.xml"
+    ],
+    "act.v.02": [
+        "masquerade-29.6.xml"
+    ],
+    "serve.v.01": [
+        "masquerade-29.6.xml"
+    ],
+    "masquerade.v.02": [
+        "masquerade-29.6.xml"
+    ],
+    "officiate.v.02": [
+        "masquerade-29.6.xml"
+    ],
+    "qualify.v.01": [
+        "masquerade-29.6.xml"
+    ],
+    "count.v.02": [
+        "matter-91.xml",
+        "matter-91.xml"
+    ],
+    "cascade.v.01": [
+        "meander-47.7.xml"
+    ],
+    "climb.v.04": [
+        "meander-47.7.xml"
+    ],
+    "run.v.03": [
+        "meander-47.7.xml",
+        "meander-47.7.xml"
+    ],
+    "weave.v.04": [
+        "meander-47.7.xml",
+        "meander-47.7.xml",
+        "meander-47.7.xml",
+        "meander-47.7.xml",
+        "roll-51.3.1.xml",
+        "run-51.3.2.xml"
+    ],
+    "lance.v.01": [
+        "meander-47.7.xml"
+    ],
+    "round.v.01": [
+        "meander-47.7.xml"
+    ],
+    "sprawl.v.02": [
+        "meander-47.7.xml"
+    ],
+    "stretch.v.01": [
+        "meander-47.7.xml"
+    ],
+    "cross.v.05": [
+        "meander-47.7.xml"
+    ],
+    "wind.v.02": [
+        "meander-47.7.xml"
+    ],
+    "converge.v.01": [
+        "meander-47.7.xml"
+    ],
+    "quarry.v.01": [
+        "mine-10.9.xml"
+    ],
+    "bob.v.01": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "circulate.v.03": [
+        "modes_of_being_with_motion-47.3.xml",
+        "send-11.1.xml"
+    ],
+    "circulate.v.06": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "creep.v.03": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "dance.v.03": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "float.v.01": [
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "roll-51.3.1.xml",
+        "roll-51.3.1.xml",
+        "split-23.2.xml"
+    ],
+    "drift.v.07": [
+        "modes_of_being_with_motion-47.3.xml",
+        "roll-51.3.1.xml"
+    ],
+    "drift.v.10": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "eddy.v.01": [
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "roll-51.3.1.xml"
+    ],
+    "roll.v.11": [
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "flap.v.02": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "float.v.03": [
+        "modes_of_being_with_motion-47.3.xml",
+        "roll-51.3.1.xml"
+    ],
+    "palpitate.v.03": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "bat.v.02": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "hover.v.03": [
+        "modes_of_being_with_motion-47.3.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "levitate.v.02": [
+        "modes_of_being_with_motion-47.3.xml",
+        "other_cos-45.4.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "oscillate.v.02": [
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml",
+        "other_cos-45.4.xml"
+    ],
+    "pulsate.v.01": [
+        "modes_of_being_with_motion-47.3.xml",
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "tremor.v.01": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "orb.v.01": [
+        "modes_of_being_with_motion-47.3.xml",
+        "roll-51.3.1.xml"
+    ],
+    "roll.v.14": [
+        "modes_of_being_with_motion-47.3.xml",
+        "roll-51.3.1.xml"
+    ],
+    "rotate.v.04": [
+        "modes_of_being_with_motion-47.3.xml",
+        "roll-51.3.1.xml"
+    ],
+    "stir.v.01": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "stir.v.02": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "arouse.v.06": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "swag.v.03": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "throb.v.01": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "ripple.v.01": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "vibrate.v.01": [
+        "modes_of_being_with_motion-47.3.xml",
+        "other_cos-45.4.xml"
+    ],
+    "waft.v.02": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "brandish.v.01": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "fluctuate.v.02": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "waver.v.06": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "shimmy.v.01": [
+        "modes_of_being_with_motion-47.3.xml"
+    ],
+    "total.v.02": [
+        "multiply-108.xml",
+        "multiply-108.xml",
+        "multiply-108.xml"
+    ],
+    "add.v.04": [
+        "multiply-108.xml"
+    ],
+    "assassinate.v.01": [
+        "murder-42.1.xml"
+    ],
+    "ambush.v.01": [
+        "murder-42.1.xml"
+    ],
+    "murder.v.01": [
+        "murder-42.1.xml",
+        "murder-42.1.xml",
+        "murder-42.1.xml"
+    ],
+    "execute.v.01": [
+        "murder-42.1.xml"
+    ],
+    "execute.v.02": [
+        "murder-42.1.xml"
+    ],
+    "immolate.v.01": [
+        "murder-42.1.xml"
+    ],
+    "massacre.v.01": [
+        "murder-42.1.xml",
+        "murder-42.1.xml"
+    ],
+    "cruise.v.01": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "cruise.v.04": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "drive.v.16": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "fly.v.04": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "fly.v.09": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "fly.v.12": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "navigate.v.02": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "navigate.v.03": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "ride.v.01": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "ride.v.02": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "ride.v.10": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "ride.v.12": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "sail.v.01": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "sail.v.03": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "voyage.v.01": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "tack.v.02": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "fly.v.01": [
+        "nonvehicle-51.4.2.xml"
+    ],
+    "beam.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "beam.v.03": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "snivel.v.03": [
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "cackle.v.03": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "chuckle.v.01": [
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "cough.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "shout.v.02": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "cry.v.07": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "frown.v.01": [
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "goggle.v.01": [
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml",
+        "peer-30.3.xml",
+        "peer-30.3.xml",
+        "peer-30.3.xml"
+    ],
+    "giggle.v.01": [
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "glower.v.01": [
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml",
+        "peer-30.3.xml"
+    ],
+    "grimace.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "grin.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "groan.v.01": [
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "grumble.v.03": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "guffaw.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "howl.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "roar.v.06": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "jeer.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "laugh.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "sulk.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "pout.v.02": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "scowl.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "sigh.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "smirk.v.01": [
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "smile.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "snicker.v.01": [
+        "nonverbal_expression-40.2.xml",
+        "nonverbal_expression-40.2.xml"
+    ],
+    "snort.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "sob.v.01": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "whistle.v.03": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "hem.v.02": [
+        "nonverbal_expression-40.2.xml"
+    ],
+    "result.v.01": [
+        "occurrence-48.3.xml"
+    ],
+    "eventuate.v.01": [
+        "occurrence-48.3.xml"
+    ],
+    "happen.v.01": [
+        "occurrence-48.3.xml",
+        "occurrence-48.3.xml",
+        "occurrence-48.3.xml"
+    ],
+    "happen.v.04": [
+        "occurrence-48.3.xml"
+    ],
+    "recur.v.01": [
+        "occurrence-48.3.xml",
+        "stop-55.4.xml"
+    ],
+    "transpire.v.04": [
+        "occurrence-48.3.xml"
+    ],
+    "bid.v.03": [
+        "order-60.xml",
+        "urge-58.1.xml",
+        "urge-58.1.xml"
+    ],
+    "call.v.05": [
+        "order-60.xml"
+    ],
+    "call.v.23": [
+        "order-60.xml"
+    ],
+    "hail.v.03": [
+        "order-60.xml"
+    ],
+    "summon.v.02": [
+        "order-60.xml"
+    ],
+    "muster.v.01": [
+        "order-60.xml"
+    ],
+    "beggar.v.02": [
+        "orphan-29.7.xml"
+    ],
+    "cripple.v.02": [
+        "orphan-29.7.xml"
+    ],
+    "cheat_on.v.01": [
+        "orphan-29.7.xml"
+    ],
+    "knight.v.01": [
+        "orphan-29.7.xml"
+    ],
+    "martyr.v.01": [
+        "orphan-29.7.xml"
+    ],
+    "martyr.v.02": [
+        "orphan-29.7.xml"
+    ],
+    "orphan.v.01": [
+        "orphan-29.7.xml"
+    ],
+    "outlaw.v.01": [
+        "orphan-29.7.xml"
+    ],
+    "recruit.v.02": [
+        "orphan-29.7.xml"
+    ],
+    "recruit.v.03": [
+        "orphan-29.7.xml"
+    ],
+    "whore.v.03": [
+        "orphan-29.7.xml"
+    ],
+    "widow.v.01": [
+        "orphan-29.7.xml"
+    ],
+    "slake.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml",
+        "subjugate-42.3.xml"
+    ],
+    "abate.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "accelerate.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "accelerate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "sour.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "acidify.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "boost.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "progress.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "advance.v.08": [
+        "other_cos-45.4.xml"
+    ],
+    "advance.v.12": [
+        "other_cos-45.4.xml"
+    ],
+    "age.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "age.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "agglomerate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "air_out.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "air.v.05": [
+        "other_cos-45.4.xml"
+    ],
+    "vent.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "alkalize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "change.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml",
+        "turn-26.6.1.xml"
+    ],
+    "alter.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "better.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "better.v.03": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "americanize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "americanize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "rarefy.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "attenuate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "balance.v.01": [
+        "other_cos-45.4.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "balance.v.04": [
+        "other_cos-45.4.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "blacken.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "char.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "dull.v.05": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "blunt.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "film_over.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "blur.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "blur.v.05": [
+        "other_cos-45.4.xml"
+    ],
+    "blur.v.06": [
+        "other_cos-45.4.xml"
+    ],
+    "brighten.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "clear_up.v.04": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "broaden.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "broaden.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "burn.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "burn.v.03": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "burn.v.07": [
+        "other_cos-45.4.xml"
+    ],
+    "burn.v.08": [
+        "other_cos-45.4.xml"
+    ],
+    "sunburn.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "burn.v.15": [
+        "other_cos-45.4.xml"
+    ],
+    "explode.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "collapse.v.05": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "burst.v.08": [
+        "other_cos-45.4.xml"
+    ],
+    "calcify.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "calcify.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "calcify.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "capsize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "caramelize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "caramelize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "carbonize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "centralize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "change.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "deepen.v.04": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "char.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "degrade.v.03": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "cool.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "cool.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "clarify.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "clarify.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "clean.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "cleanse.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "clean.v.10": [
+        "other_cos-45.4.xml"
+    ],
+    "clear.v.08": [
+        "other_cos-45.4.xml"
+    ],
+    "clear.v.12": [
+        "other_cos-45.4.xml"
+    ],
+    "clear.v.20": [
+        "other_cos-45.4.xml"
+    ],
+    "clog.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "close_up.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "close.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "close.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "close.v.09": [
+        "other_cos-45.4.xml"
+    ],
+    "obscure.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "overcast.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "cloud.v.06": [
+        "other_cos-45.4.xml"
+    ],
+    "clot.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "coarsen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "crumble.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "burn.v.05": [
+        "other_cos-45.4.xml"
+    ],
+    "erupt.v.03": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "flip_one's_lid.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "compress.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "compress.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "condense.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "condense.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "condense.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "condense.v.06": [
+        "other_cos-45.4.xml"
+    ],
+    "jell.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "shrink.v.04": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "contract.v.06": [
+        "other_cos-45.4.xml"
+    ],
+    "corrode.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "corrode.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "crumble.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "crystallize.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "crystallize.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "moisten.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "darken.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "darken.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "de-escalate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "decelerate.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "decelerate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "decentralize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "decompress.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "depressurize.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "decrease.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "decrease.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "deepen.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "deflate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "deflate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "deflate.v.06": [
+        "other_cos-45.4.xml"
+    ],
+    "devolve.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "demagnetize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "democratize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "democratize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "derail.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "exsiccate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "destabilize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "destabilize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "explode.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "dim.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "dim.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "dirty.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "disintegrate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "disperse.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "disperse.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "dissolve.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "dissolve.v.08": [
+        "other_cos-45.4.xml"
+    ],
+    "divide.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "separate.v.12": [
+        "other_cos-45.4.xml"
+    ],
+    "double.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "drain.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "drain.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "dull.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "dull.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "facilitate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "empty.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "empty.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "emulsify.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "emulsify.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "enlarge.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "blow_up.v.02": [
+        "other_cos-45.4.xml",
+        "remedy-45.7.xml"
+    ],
+    "enlarge.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "equal.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "evaporate.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "flush.v.04": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "even.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "even.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "expand.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "expand.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "expand.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "explode.v.05": [
+        "other_cos-45.4.xml"
+    ],
+    "fade.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "fade.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "fatten.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "federate.v.02": [
+        "other_cos-45.4.xml",
+        "remedy-45.7.xml"
+    ],
+    "fill.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "fill.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "tauten.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "tauten.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "flatten.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "flatten.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "deluge.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "flood.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "flood.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "fossilize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "fray.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "freshen.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "refresh.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "fructify.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "fructify.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "fructify.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "fuse.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "fuse.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "gasify.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "gelatinize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "gelatinize.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "granulate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "granulate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "grey.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "grey.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "halt.v.01": [
+        "other_cos-45.4.xml",
+        "stop-55.4.xml"
+    ],
+    "stop.v.01": [
+        "other_cos-45.4.xml",
+        "stop-55.4.xml"
+    ],
+    "harden.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "harden.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "temper.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "harmonize.v.01": [
+        "other_cos-45.4.xml",
+        "settle-89.xml"
+    ],
+    "harmonize.v.04": [
+        "other_cos-45.4.xml",
+        "settle-89.xml"
+    ],
+    "harmonize.v.05": [
+        "other_cos-45.4.xml",
+        "settle-89.xml"
+    ],
+    "rush.v.04": [
+        "other_cos-45.4.xml",
+        "rush-53.2.xml",
+        "rush-53.2.xml",
+        "rush-53.2.xml"
+    ],
+    "rush.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "expedite.v.01": [
+        "other_cos-45.4.xml",
+        "rush-53.2.xml"
+    ],
+    "mend.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "heal.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "heat.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "heighten.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "heighten.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "enhance.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "sharpen.v.08": [
+        "other_cos-45.4.xml"
+    ],
+    "intensify.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "hush.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "hush.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "quieten.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "crossbreed.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "hydrate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "hydrate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "hydrate.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "ignite.v.01": [
+        "other_cos-45.4.xml",
+        "remedy-45.7.xml"
+    ],
+    "increase.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "increase.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "incubate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "inflate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "balloon.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "escalate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "intensify.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "ionize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "kindle.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "kindle.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "lengthen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "lengthen.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "subside.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "level.v.06": [
+        "other_cos-45.4.xml"
+    ],
+    "liquefy.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "liquefy.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "liquefy.v.03": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "loop.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "loop.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "loosen.v.07": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "loosen.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "untie.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "macerate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "macerate.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "mellow.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "mellow.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "mellow.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "breed.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "reproduce.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "narrow.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "neutralize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "counteract.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "obstruct.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "open.v.01": [
+        "other_cos-45.4.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "open.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "unfold.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "function.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "operate.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "ossify.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "overturn.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "overturn.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "oxidize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "petrify.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "lapidify.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "polarize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "polarize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "polarize.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "proliferate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "proliferate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "propagate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "propagate.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "propagate.v.05": [
+        "other_cos-45.4.xml"
+    ],
+    "powderize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "purple.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "purple.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "putrefy.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "quadruple.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "whet.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "animate.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "redden.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "redden.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "redouble.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "redouble.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "redouble.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "rekindle.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "reopen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "ripen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "ripen.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "roughen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "sear.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "parch.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "sharpen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "sharpen.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "sharpen.v.07": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "short-circuit.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "shorten.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "shorten.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "shrivel.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "shrink.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "shrink.v.05": [
+        "other_cos-45.4.xml"
+    ],
+    "sicken.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "sicken.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "silver.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "silver.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "sink.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "sink.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "slack.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "slack.v.04": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "slow.v.02": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "slack.v.08": [
+        "other_cos-45.4.xml"
+    ],
+    "slacken.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "slacken.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "reduce.v.20": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "slow.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "smooth.v.01": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "polish.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "soak.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "drench.v.04": [
+        "other_cos-45.4.xml",
+        "other_cos-45.4.xml"
+    ],
+    "soak.v.08": [
+        "other_cos-45.4.xml"
+    ],
+    "sober_up.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "soften.v.06": [
+        "other_cos-45.4.xml"
+    ],
+    "soften.v.07": [
+        "other_cos-45.4.xml"
+    ],
+    "solidify.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "solidify.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "sour.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "stabilize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "stabilize.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "steady.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "brace.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "steep.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "steepen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "steepen.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "stiffen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "stiffen.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "stratify.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "strangulate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "strangulate.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "strengthen.v.01": [
+        "other_cos-45.4.xml",
+        "remedy-45.7.xml"
+    ],
+    "strengthen.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "submerge.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "submerge.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "inundate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "sweeten.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "domesticate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "domesticate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "domesticate.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "tan.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "tan.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "taper.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "strain.v.06": [
+        "other_cos-45.4.xml"
+    ],
+    "tense.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "tense.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "tense.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "thicken.v.01": [
+        "other_cos-45.4.xml",
+        "remedy-45.7.xml"
+    ],
+    "thicken.v.02": [
+        "other_cos-45.4.xml",
+        "remedy-45.7.xml"
+    ],
+    "thicken.v.03": [
+        "other_cos-45.4.xml",
+        "remedy-45.7.xml"
+    ],
+    "thin.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "thin.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "dilute.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "tighten.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "tighten.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "lean.v.01": [
+        "other_cos-45.4.xml",
+        "spatial_configuration-47.6.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "cant.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "topple.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "toughen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "triple.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "ulcerate.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "ulcerate.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "unionize.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "vitrify.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "vitrify.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "volatilize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "awaken.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "wake_up.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "warm.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "warm.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "weaken.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "weaken.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "occidentalize.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "whiten.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "widen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "let_out.v.04": [
+        "other_cos-45.4.xml"
+    ],
+    "widen.v.03": [
+        "other_cos-45.4.xml"
+    ],
+    "worsen.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "worsen.v.02": [
+        "other_cos-45.4.xml"
+    ],
+    "yellow.v.01": [
+        "other_cos-45.4.xml"
+    ],
+    "overstate.v.01": [
+        "overstate-37.12.xml",
+        "overstate-37.12.xml",
+        "overstate-37.12.xml",
+        "overstate-37.12.xml",
+        "overstate-37.12.xml"
+    ],
+    "overemphasize.v.01": [
+        "overstate-37.12.xml",
+        "overstate-37.12.xml"
+    ],
+    "overestimate.v.01": [
+        "overstate-37.12.xml"
+    ],
+    "own.v.01": [
+        "own-100.xml",
+        "own-100.xml",
+        "own-100.xml"
+    ],
+    "ache.v.03": [
+        "pain-40.8.1.xml"
+    ],
+    "itch.v.02": [
+        "pain-40.8.1.xml"
+    ],
+    "trouble.v.05": [
+        "pain-40.8.1.xml"
+    ],
+    "copyright.v.01": [
+        "patent-101.xml"
+    ],
+    "patent.v.01": [
+        "patent-101.xml"
+    ],
+    "trademark.v.02": [
+        "patent-101.xml"
+    ],
+    "file.v.01": [
+        "patent-101.xml"
+    ],
+    "accredit.v.01": [
+        "patent-101.xml"
+    ],
+    "verify.v.03": [
+        "patent-101.xml"
+    ],
+    "imitate.v.03": [
+        "patent-101.xml"
+    ],
+    "impersonate.v.01": [
+        "patent-101.xml"
+    ],
+    "impersonate.v.02": [
+        "patent-101.xml"
+    ],
+    "pose.v.03": [
+        "patent-101.xml"
+    ],
+    "spend.v.02": [
+        "pay-68.xml"
+    ],
+    "spend.v.03": [
+        "pay-68.xml"
+    ],
+    "waste.v.01": [
+        "pay-68.xml",
+        "pay-68.xml"
+    ],
+    "tithe.v.03": [
+        "pay-68.xml"
+    ],
+    "tithe.v.04": [
+        "pay-68.xml"
+    ],
+    "gaze.v.01": [
+        "peer-30.3.xml",
+        "peer-30.3.xml"
+    ],
+    "glance.v.01": [
+        "peer-30.3.xml",
+        "peer-30.3.xml"
+    ],
+    "leer.v.01": [
+        "peer-30.3.xml"
+    ],
+    "listen.v.01": [
+        "peer-30.3.xml"
+    ],
+    "listen.v.02": [
+        "peer-30.3.xml",
+        "rummage-35.5.xml"
+    ],
+    "look.v.01": [
+        "peer-30.3.xml"
+    ],
+    "search.v.02": [
+        "peer-30.3.xml",
+        "rummage-35.5.xml"
+    ],
+    "ogle.v.01": [
+        "peer-30.3.xml"
+    ],
+    "peep.v.01": [
+        "peer-30.3.xml"
+    ],
+    "peer.v.01": [
+        "peer-30.3.xml"
+    ],
+    "sniff.v.01": [
+        "peer-30.3.xml",
+        "sight-30.2.xml",
+        "stalk-35.3.xml"
+    ],
+    "spy.v.02": [
+        "peer-30.3.xml",
+        "sight-30.2.xml"
+    ],
+    "squint.v.01": [
+        "peer-30.3.xml"
+    ],
+    "pelt.v.01": [
+        "pelt-17.2.xml",
+        "pelt-17.2.xml"
+    ],
+    "buffet.v.01": [
+        "pelt-17.2.xml"
+    ],
+    "buffet.v.02": [
+        "pelt-17.2.xml"
+    ],
+    "blast.v.03": [
+        "pelt-17.2.xml"
+    ],
+    "shower.v.02": [
+        "pelt-17.2.xml"
+    ],
+    "stone.v.01": [
+        "pelt-17.2.xml"
+    ],
+    "bark.v.03": [
+        "pit-10.7.xml",
+        "pit-10.7.xml"
+    ],
+    "burl.v.01": [
+        "pit-10.7.xml"
+    ],
+    "core.v.01": [
+        "pit-10.7.xml"
+    ],
+    "gut.v.02": [
+        "pit-10.7.xml"
+    ],
+    "head.v.09": [
+        "pit-10.7.xml"
+    ],
+    "hull.v.01": [
+        "pit-10.7.xml"
+    ],
+    "husk.v.01": [
+        "pit-10.7.xml"
+    ],
+    "milk.v.01": [
+        "pit-10.7.xml"
+    ],
+    "skin.v.04": [
+        "pit-10.7.xml",
+        "pit-10.7.xml"
+    ],
+    "pinion.v.02": [
+        "pit-10.7.xml"
+    ],
+    "pit.v.03": [
+        "pit-10.7.xml",
+        "pit-10.7.xml"
+    ],
+    "pith.v.01": [
+        "pit-10.7.xml"
+    ],
+    "pod.v.01": [
+        "pit-10.7.xml"
+    ],
+    "poll.v.04": [
+        "pit-10.7.xml"
+    ],
+    "pulp.v.01": [
+        "pit-10.7.xml"
+    ],
+    "scalp.v.02": [
+        "pit-10.7.xml"
+    ],
+    "seed.v.08": [
+        "pit-10.7.xml"
+    ],
+    "shell.v.07": [
+        "pit-10.7.xml"
+    ],
+    "shuck.v.02": [
+        "pit-10.7.xml"
+    ],
+    "stem.v.04": [
+        "pit-10.7.xml"
+    ],
+    "string.v.06": [
+        "pit-10.7.xml"
+    ],
+    "dock.v.04": [
+        "pit-10.7.xml"
+    ],
+    "tail.v.03": [
+        "pit-10.7.xml"
+    ],
+    "weed.v.01": [
+        "pit-10.7.xml"
+    ],
+    "archive.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "bag.v.05": [
+        "pocket-9.10.xml"
+    ],
+    "deposit.v.02": [
+        "pocket-9.10.xml"
+    ],
+    "beach.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "bed.v.03": [
+        "pocket-9.10.xml"
+    ],
+    "bench.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "quarter.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "bin.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "bottle.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "bottle.v.02": [
+        "pocket-9.10.xml"
+    ],
+    "box.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "cage.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "can.v.01": [
+        "pocket-9.10.xml",
+        "pocket-9.10.xml"
+    ],
+    "encase.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "cloister.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "cloister.v.03": [
+        "pocket-9.10.xml"
+    ],
+    "corral.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "crate.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "cup.v.02": [
+        "pocket-9.10.xml"
+    ],
+    "file.v.05": [
+        "pocket-9.10.xml"
+    ],
+    "pitchfork.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "garage.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "jar.v.05": [
+        "pocket-9.10.xml"
+    ],
+    "jug.v.02": [
+        "pocket-9.10.xml"
+    ],
+    "kennel.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "crop.v.04": [
+        "pocket-9.10.xml"
+    ],
+    "pillory.v.02": [
+        "pocket-9.10.xml"
+    ],
+    "pocket.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "pot.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "sheathe.v.02": [
+        "pocket-9.10.xml"
+    ],
+    "shelve.v.02": [
+        "pocket-9.10.xml"
+    ],
+    "shoulder.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "skewer.v.01": [
+        "pocket-9.10.xml",
+        "pocket-9.10.xml"
+    ],
+    "trap.v.02": [
+        "pocket-9.10.xml",
+        "pocket-9.10.xml"
+    ],
+    "spool.v.02": [
+        "pocket-9.10.xml"
+    ],
+    "string.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "corner.v.02": [
+        "pocket-9.10.xml"
+    ],
+    "warehouse.v.01": [
+        "pocket-9.10.xml"
+    ],
+    "wharf.v.02": [
+        "pocket-9.10.xml"
+    ],
+    "smother.v.02": [
+        "poison-42.2.xml",
+        "poison-42.2.xml",
+        "poison-42.2.xml",
+        "suffocate-40.7.xml",
+        "suffocate-40.7.xml"
+    ],
+    "crucify.v.01": [
+        "poison-42.2.xml"
+    ],
+    "drown.v.04": [
+        "poison-42.2.xml",
+        "suffocate-40.7.xml"
+    ],
+    "electrocute.v.02": [
+        "poison-42.2.xml"
+    ],
+    "gas.v.01": [
+        "poison-42.2.xml"
+    ],
+    "garrote.v.01": [
+        "poison-42.2.xml"
+    ],
+    "hang.v.03": [
+        "poison-42.2.xml"
+    ],
+    "knife.v.01": [
+        "poison-42.2.xml",
+        "poison-42.2.xml",
+        "poke-19.xml",
+        "spank-18.3.xml"
+    ],
+    "poison.v.02": [
+        "poison-42.2.xml"
+    ],
+    "shoot.v.02": [
+        "poison-42.2.xml"
+    ],
+    "strangle.v.01": [
+        "poison-42.2.xml",
+        "poison-42.2.xml"
+    ],
+    "jab.v.01": [
+        "poke-19.xml",
+        "poke-19.xml",
+        "poke-19.xml",
+        "poke-19.xml"
+    ],
+    "stab.v.02": [
+        "poke-19.xml",
+        "poke-19.xml"
+    ],
+    "pierce.v.01": [
+        "poke-19.xml"
+    ],
+    "pierce.v.04": [
+        "poke-19.xml"
+    ],
+    "pierce.v.05": [
+        "poke-19.xml"
+    ],
+    "poke.v.05": [
+        "poke-19.xml"
+    ],
+    "prickle.v.03": [
+        "poke-19.xml"
+    ],
+    "sting.v.02": [
+        "poke-19.xml"
+    ],
+    "stick.v.13": [
+        "poke-19.xml"
+    ],
+    "trickle.v.01": [
+        "pour-9.5.xml",
+        "pour-9.5.xml"
+    ],
+    "dribble.v.02": [
+        "pour-9.5.xml",
+        "pour-9.5.xml"
+    ],
+    "drip.v.01": [
+        "pour-9.5.xml"
+    ],
+    "pour.v.01": [
+        "pour-9.5.xml"
+    ],
+    "decant.v.01": [
+        "pour-9.5.xml"
+    ],
+    "pour.v.04": [
+        "pour-9.5.xml"
+    ],
+    "spill.v.01": [
+        "pour-9.5.xml",
+        "pour-9.5.xml"
+    ],
+    "slosh.v.03": [
+        "pour-9.5.xml"
+    ],
+    "spew.v.02": [
+        "pour-9.5.xml"
+    ],
+    "spill.v.02": [
+        "pour-9.5.xml"
+    ],
+    "spill.v.03": [
+        "pour-9.5.xml",
+        "remove-10.1.xml"
+    ],
+    "tax.v.02": [
+        "price-54.4.xml"
+    ],
+    "fix.v.06": [
+        "price-54.4.xml"
+    ],
+    "meter.v.01": [
+        "price-54.4.xml"
+    ],
+    "overestimate.n.01": [
+        "price-54.4.xml"
+    ],
+    "peg.v.04": [
+        "price-54.4.xml"
+    ],
+    "price.v.01": [
+        "price-54.4.xml"
+    ],
+    "price.v.02": [
+        "price-54.4.xml"
+    ],
+    "rate.v.03": [
+        "price-54.4.xml",
+        "price-54.4.xml"
+    ],
+    "reappraise.v.01": [
+        "price-54.4.xml"
+    ],
+    "value.v.01": [
+        "price-54.4.xml"
+    ],
+    "promise.v.01": [
+        "promise-37.13.xml",
+        "promise-37.13.xml"
+    ],
+    "undertake.v.03": [
+        "promise-37.13.xml"
+    ],
+    "advertise.v.02": [
+        "promote-102.xml"
+    ],
+    "promote.v.02": [
+        "promote-102.xml"
+    ],
+    "foster.v.01": [
+        "promote-102.xml"
+    ],
+    "invite.v.07": [
+        "promote-102.xml"
+    ],
+    "stress.v.01": [
+        "promote-102.xml"
+    ],
+    "underscore.v.01": [
+        "promote-102.xml"
+    ],
+    "heave.v.02": [
+        "push-12.xml"
+    ],
+    "arrange.v.01": [
+        "put-9.1.xml"
+    ],
+    "emplace.v.02": [
+        "put-9.1.xml"
+    ],
+    "immerse.v.01": [
+        "put-9.1.xml"
+    ],
+    "implant.v.01": [
+        "put-9.1.xml"
+    ],
+    "implant.v.02": [
+        "put-9.1.xml"
+    ],
+    "plant.v.06": [
+        "put-9.1.xml"
+    ],
+    "lodge.v.02": [
+        "put-9.1.xml"
+    ],
+    "mount.v.01": [
+        "put-9.1.xml"
+    ],
+    "mount.v.03": [
+        "put-9.1.xml"
+    ],
+    "put.v.01": [
+        "put-9.1.xml",
+        "put_spatial-9.2.xml"
+    ],
+    "situate.v.02": [
+        "put-9.1.xml"
+    ],
+    "sling.v.01": [
+        "put-9.1.xml"
+    ],
+    "station.v.01": [
+        "put-9.1.xml"
+    ],
+    "superimpose.v.01": [
+        "put-9.1.xml"
+    ],
+    "tack.v.01": [
+        "put-9.1.xml"
+    ],
+    "append.v.02": [
+        "put-9.1.xml"
+    ],
+    "moor.v.02": [
+        "put-9.1.xml"
+    ],
+    "wharf.v.05": [
+        "put-9.1.xml"
+    ],
+    "drop.v.01": [
+        "put_direction-9.4.xml",
+        "roll-51.3.1.xml"
+    ],
+    "raise.v.02": [
+        "put_direction-9.4.xml",
+        "put_direction-9.4.xml",
+        "put_direction-9.4.xml"
+    ],
+    "list.v.04": [
+        "put_direction-9.4.xml"
+    ],
+    "hoist.v.03": [
+        "put_direction-9.4.xml"
+    ],
+    "lift.v.02": [
+        "put_direction-9.4.xml"
+    ],
+    "lower.v.01": [
+        "put_direction-9.4.xml"
+    ],
+    "back.v.04": [
+        "put_direction-9.4.xml"
+    ],
+    "lay.v.02": [
+        "put_spatial-9.2.xml"
+    ],
+    "prop_up.v.01": [
+        "put_spatial-9.2.xml"
+    ],
+    "underlay.v.01": [
+        "put_spatial-9.2.xml"
+    ],
+    "underlay.v.02": [
+        "put_spatial-9.2.xml"
+    ],
+    "underlay.v.03": [
+        "put_spatial-9.2.xml"
+    ],
+    "reach.v.01": [
+        "reach-51.8.xml",
+        "reach-51.8.xml",
+        "reach-51.8.xml"
+    ],
+    "reach.v.02": [
+        "reach-51.8.xml",
+        "reach-51.8.xml"
+    ],
+    "have.v.17": [
+        "reach-51.8.xml"
+    ],
+    "summit.v.01": [
+        "reach-51.8.xml"
+    ],
+    "refrain.v.01": [
+        "refrain-69.xml",
+        "refrain-69.xml"
+    ],
+    "abstain.v.02": [
+        "refrain-69.xml",
+        "refrain-69.xml",
+        "refrain-69.xml"
+    ],
+    "abstain.v.01": [
+        "refrain-69.xml"
+    ],
+    "rehearse.v.01": [
+        "rehearse-26.8.xml",
+        "rehearse-26.8.xml"
+    ],
+    "walk_through.v.01": [
+        "rehearse-26.8.xml"
+    ],
+    "drill.v.03": [
+        "rehearse-26.8.xml"
+    ],
+    "duplicate.v.01": [
+        "rehearse-26.8.xml"
+    ],
+    "count.v.08": [
+        "rely-70.xml",
+        "rely-70.xml",
+        "rely-70.xml"
+    ],
+    "calculate.v.02": [
+        "rely-70.xml",
+        "rely-70.xml"
+    ],
+    "gamble.v.01": [
+        "rely-70.xml",
+        "rely-70.xml",
+        "risk-94.xml"
+    ],
+    "alcoholize.v.03": [
+        "remedy-45.7.xml"
+    ],
+    "alcoholize.v.02": [
+        "remedy-45.7.xml"
+    ],
+    "blast.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "dehumidify.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "snuff_out.v.02": [
+        "remedy-45.7.xml",
+        "remove-10.1.xml"
+    ],
+    "stub_out.v.01": [
+        "remedy-45.7.xml",
+        "remove-10.1.xml"
+    ],
+    "federate.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "fortify.v.02": [
+        "remedy-45.7.xml"
+    ],
+    "grade.v.02": [
+        "remedy-45.7.xml"
+    ],
+    "humidify.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "ice.v.02": [
+        "remedy-45.7.xml"
+    ],
+    "ice.v.03": [
+        "remedy-45.7.xml"
+    ],
+    "iodize.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "iodize.v.02": [
+        "remedy-45.7.xml"
+    ],
+    "light.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "lighten.v.02": [
+        "remedy-45.7.xml"
+    ],
+    "magnetize.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "magnify.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "muddy.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "muddy.v.03": [
+        "remedy-45.7.xml"
+    ],
+    "nitrify.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "pink.v.03": [
+        "remedy-45.7.xml"
+    ],
+    "regularize.v.02": [
+        "remedy-45.7.xml"
+    ],
+    "singe.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "trivialize.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "popularize.v.01": [
+        "remedy-45.7.xml"
+    ],
+    "vulgarise.v.02": [
+        "remedy-45.7.xml"
+    ],
+    "abolish.v.01": [
+        "remove-10.1.xml"
+    ],
+    "pilfer.v.01": [
+        "remove-10.1.xml"
+    ],
+    "cull.v.01": [
+        "remove-10.1.xml"
+    ],
+    "pick.v.02": [
+        "remove-10.1.xml"
+    ],
+    "subtract.v.01": [
+        "remove-10.1.xml",
+        "remove-10.1.xml"
+    ],
+    "withhold.v.02": [
+        "remove-10.1.xml"
+    ],
+    "delete.v.01": [
+        "remove-10.1.xml"
+    ],
+    "erase.v.03": [
+        "remove-10.1.xml"
+    ],
+    "depose.v.01": [
+        "remove-10.1.xml"
+    ],
+    "dislodge.v.01": [
+        "remove-10.1.xml"
+    ],
+    "dislodge.v.03": [
+        "remove-10.1.xml"
+    ],
+    "disengage.v.01": [
+        "remove-10.1.xml"
+    ],
+    "draw.v.07": [
+        "remove-10.1.xml"
+    ],
+    "draw.v.09": [
+        "remove-10.1.xml"
+    ],
+    "withdraw.v.09": [
+        "remove-10.1.xml",
+        "remove-10.1.xml"
+    ],
+    "draw.v.14": [
+        "remove-10.1.xml"
+    ],
+    "draw.v.17": [
+        "remove-10.1.xml"
+    ],
+    "eject.v.01": [
+        "remove-10.1.xml"
+    ],
+    "extinguish.v.04": [
+        "remove-10.1.xml",
+        "remove-10.1.xml"
+    ],
+    "obviate.v.01": [
+        "remove-10.1.xml"
+    ],
+    "rule_out.v.03": [
+        "remove-10.1.xml"
+    ],
+    "excrete.v.01": [
+        "remove-10.1.xml"
+    ],
+    "strike.v.14": [
+        "remove-10.1.xml"
+    ],
+    "excise.v.03": [
+        "remove-10.1.xml"
+    ],
+    "excommunicate.v.01": [
+        "remove-10.1.xml"
+    ],
+    "uproot.v.03": [
+        "remove-10.1.xml",
+        "remove-10.1.xml"
+    ],
+    "extract.v.02": [
+        "remove-10.1.xml"
+    ],
+    "distill.v.03": [
+        "remove-10.1.xml"
+    ],
+    "extract.v.05": [
+        "remove-10.1.xml"
+    ],
+    "press_out.v.03": [
+        "remove-10.1.xml"
+    ],
+    "excerpt.v.01": [
+        "remove-10.1.xml"
+    ],
+    "extrude.v.01": [
+        "remove-10.1.xml"
+    ],
+    "discerp.v.02": [
+        "remove-10.1.xml",
+        "remove-10.1.xml",
+        "separate-23.1.xml"
+    ],
+    "snip.v.02": [
+        "remove-10.1.xml"
+    ],
+    "partition.v.01": [
+        "remove-10.1.xml"
+    ],
+    "partition.v.02": [
+        "remove-10.1.xml"
+    ],
+    "pry.v.01": [
+        "remove-10.1.xml",
+        "remove-10.1.xml",
+        "split-23.2.xml"
+    ],
+    "reap.v.01": [
+        "remove-10.1.xml"
+    ],
+    "reap.v.02": [
+        "remove-10.1.xml"
+    ],
+    "ream.v.02": [
+        "remove-10.1.xml"
+    ],
+    "abjure.v.01": [
+        "remove-10.1.xml"
+    ],
+    "separate.v.01": [
+        "remove-10.1.xml"
+    ],
+    "separate.v.02": [
+        "remove-10.1.xml"
+    ],
+    "separate.v.05": [
+        "remove-10.1.xml"
+    ],
+    "shoo_off.v.01": [
+        "remove-10.1.xml"
+    ],
+    "winkle.v.03": [
+        "remove-10.1.xml"
+    ],
+    "wrench.v.01": [
+        "remove-10.1.xml",
+        "roll-51.3.1.xml"
+    ],
+    "discharge.v.02": [
+        "remove-10.1.xml"
+    ],
+    "exhaust.v.05": [
+        "remove-10.1.xml"
+    ],
+    "drop.v.08": [
+        "remove-10.1.xml"
+    ],
+    "evict.v.02": [
+        "remove-10.1.xml"
+    ],
+    "snuff_out.v.01": [
+        "remove-10.1.xml"
+    ],
+    "necessitate.v.01": [
+        "require-103.xml",
+        "require-103.xml",
+        "require-103.xml",
+        "require-103.xml",
+        "require-103.xml"
+    ],
+    "want.v.02": [
+        "require-103.xml"
+    ],
+    "vacate.v.01": [
+        "resign-10.11.xml",
+        "resign-10.11.xml",
+        "resign-10.11.xml"
+    ],
+    "leave_office.v.01": [
+        "resign-10.11.xml",
+        "resign-10.11.xml"
+    ],
+    "abdicate.v.01": [
+        "resign-10.11.xml",
+        "resign-10.11.xml"
+    ],
+    "leave.v.08": [
+        "resign-10.11.xml",
+        "resign-10.11.xml"
+    ],
+    "retire.v.02": [
+        "resign-10.11.xml",
+        "resign-10.11.xml"
+    ],
+    "bet.v.01": [
+        "risk-94.xml"
+    ],
+    "bet_on.v.01": [
+        "risk-94.xml"
+    ],
+    "venture.v.03": [
+        "risk-94.xml"
+    ],
+    "bet.v.02": [
+        "risk-94.xml"
+    ],
+    "bounce.v.01": [
+        "roll-51.3.1.xml"
+    ],
+    "bounce.v.02": [
+        "roll-51.3.1.xml"
+    ],
+    "bounce.v.03": [
+        "roll-51.3.1.xml"
+    ],
+    "stray.v.02": [
+        "roll-51.3.1.xml",
+        "run-51.3.2.xml"
+    ],
+    "drop.v.02": [
+        "roll-51.3.1.xml"
+    ],
+    "float.v.05": [
+        "roll-51.3.1.xml"
+    ],
+    "glide.v.01": [
+        "roll-51.3.1.xml"
+    ],
+    "glide.v.03": [
+        "roll-51.3.1.xml"
+    ],
+    "move.v.02": [
+        "roll-51.3.1.xml",
+        "slide-11.2.xml"
+    ],
+    "move.v.03": [
+        "roll-51.3.1.xml",
+        "slide-11.2.xml"
+    ],
+    "nose.v.04": [
+        "roll-51.3.1.xml"
+    ],
+    "roll.v.01": [
+        "roll-51.3.1.xml",
+        "split-23.2.xml"
+    ],
+    "roll.v.09": [
+        "roll-51.3.1.xml"
+    ],
+    "skid.v.04": [
+        "roll-51.3.1.xml"
+    ],
+    "slither.v.01": [
+        "roll-51.3.1.xml",
+        "run-51.3.2.xml"
+    ],
+    "slide.v.03": [
+        "roll-51.3.1.xml"
+    ],
+    "swing.v.01": [
+        "roll-51.3.1.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "swing.v.03": [
+        "roll-51.3.1.xml"
+    ],
+    "swing.v.05": [
+        "roll-51.3.1.xml"
+    ],
+    "turn.v.04": [
+        "roll-51.3.1.xml"
+    ],
+    "turn.v.09": [
+        "roll-51.3.1.xml"
+    ],
+    "turn.v.10": [
+        "roll-51.3.1.xml"
+    ],
+    "turn.v.19": [
+        "roll-51.3.1.xml"
+    ],
+    "twist.v.07": [
+        "roll-51.3.1.xml"
+    ],
+    "whirl.v.05": [
+        "roll-51.3.1.xml"
+    ],
+    "bore.v.02": [
+        "rummage-35.5.xml"
+    ],
+    "burrow.v.01": [
+        "rummage-35.5.xml"
+    ],
+    "grope.v.01": [
+        "rummage-35.5.xml"
+    ],
+    "heed.v.01": [
+        "rummage-35.5.xml"
+    ],
+    "grope_for.v.01": [
+        "rummage-35.5.xml"
+    ],
+    "amble.v.01": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "ambulate.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "backpack.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "jump.v.01": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "bustle.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "caper.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "carom.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "carom.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "frolic.v.01": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml",
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "charge.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "tear.v.03": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "clamber.v.01": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "climb.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "climb.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "clump.v.03": [
+        "run-51.3.2.xml"
+    ],
+    "crawl.v.01": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "sneak.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "flit.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "flounce.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "gallivant.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "ghost.n.01": [
+        "run-51.3.2.xml"
+    ],
+    "goose_step.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "hike.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "hitchhike.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "limp.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "limp.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "lollop.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "lumber.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "stagger.v.01": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "lurch.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "lurch.v.03": [
+        "run-51.3.2.xml"
+    ],
+    "mince.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "pace.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "pace.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "pounce.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "repair.v.03": [
+        "run-51.3.2.xml"
+    ],
+    "romp.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "sidle.v.02": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "tittup.v.01": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "stroll.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "scurry.v.01": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "scram.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "scramble.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "dart.v.02": [
+        "run-51.3.2.xml",
+        "slide-11.2.xml"
+    ],
+    "shuffle.v.01": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "sidle.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "skulk.v.03": [
+        "run-51.3.2.xml"
+    ],
+    "sleepwalk.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "slink.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "slog.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "slouch.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "somersault.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "sprint.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "stagger.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "stomp.v.01": [
+        "run-51.3.2.xml",
+        "run-51.3.2.xml"
+    ],
+    "roll.v.12": [
+        "run-51.3.2.xml"
+    ],
+    "streak.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "streak.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "stumble.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "stumble.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "tiptoe.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "tread.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "troop.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "yaw.v.02": [
+        "run-51.3.2.xml"
+    ],
+    "yaw.v.03": [
+        "run-51.3.2.xml"
+    ],
+    "zigzag.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "zoom.v.01": [
+        "run-51.3.2.xml"
+    ],
+    "voice.v.02": [
+        "say-37.7.xml"
+    ],
+    "vocalize.v.05": [
+        "say-37.7.xml"
+    ],
+    "volunteer.v.01": [
+        "say-37.7.xml"
+    ],
+    "carve.v.02": [
+        "scribble-25.2.xml"
+    ],
+    "chalk.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "charcoal.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "copy.v.01": [
+        "scribble-25.2.xml",
+        "transcribe-25.4.xml"
+    ],
+    "copy.v.04": [
+        "scribble-25.2.xml",
+        "transcribe-25.4.xml"
+    ],
+    "crayon.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "doodle.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "draw.v.04": [
+        "scribble-25.2.xml"
+    ],
+    "draw.v.06": [
+        "scribble-25.2.xml"
+    ],
+    "draw.v.19": [
+        "scribble-25.2.xml"
+    ],
+    "forge.v.02": [
+        "scribble-25.2.xml",
+        "transcribe-25.4.xml"
+    ],
+    "ink.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "paint.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "pencil.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "diagram.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "print.v.02": [
+        "scribble-25.2.xml"
+    ],
+    "print.v.04": [
+        "scribble-25.2.xml"
+    ],
+    "scribble.v.02": [
+        "scribble-25.2.xml",
+        "scribble-25.2.xml"
+    ],
+    "scribble.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "sketch.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "stencil.v.01": [
+        "scribble-25.2.xml"
+    ],
+    "trace.v.02": [
+        "scribble-25.2.xml"
+    ],
+    "trace.v.07": [
+        "scribble-25.2.xml"
+    ],
+    "type.v.01": [
+        "scribble-25.2.xml",
+        "transcribe-25.4.xml"
+    ],
+    "write.v.07": [
+        "scribble-25.2.xml"
+    ],
+    "underline.v.02": [
+        "scribble-25.2.xml",
+        "scribble-25.2.xml"
+    ],
+    "smell.v.01": [
+        "see-30.1.xml",
+        "stalk-35.3.xml"
+    ],
+    "sample.v.01": [
+        "see-30.1.xml",
+        "stalk-35.3.xml"
+    ],
+    "taste.v.02": [
+        "see-30.1.xml"
+    ],
+    "taste.v.05": [
+        "see-30.1.xml"
+    ],
+    "smell.v.02": [
+        "seem-109.xml",
+        "smell_emission-43.3.xml",
+        "stimulus_subject-30.4.xml"
+    ],
+    "smell.v.03": [
+        "seem-109.xml",
+        "smell_emission-43.3.xml",
+        "stimulus_subject-30.4.xml"
+    ],
+    "sound.v.01": [
+        "seem-109.xml"
+    ],
+    "taste.v.01": [
+        "seem-109.xml",
+        "stimulus_subject-30.4.xml"
+    ],
+    "keep.v.01": [
+        "seem-109.xml"
+    ],
+    "convey.v.03": [
+        "send-11.1.xml"
+    ],
+    "bring.v.04": [
+        "send-11.1.xml"
+    ],
+    "deliver.v.02": [
+        "send-11.1.xml"
+    ],
+    "dispatch.v.01": [
+        "send-11.1.xml"
+    ],
+    "pass_on.v.04": [
+        "send-11.1.xml"
+    ],
+    "port.v.05": [
+        "send-11.1.xml"
+    ],
+    "mail.v.02": [
+        "send-11.1.xml"
+    ],
+    "return.v.07": [
+        "send-11.1.xml"
+    ],
+    "transfer.v.04": [
+        "send-11.1.xml"
+    ],
+    "shunt.v.01": [
+        "send-11.1.xml"
+    ],
+    "transfer.v.02": [
+        "send-11.1.xml"
+    ],
+    "transmit.v.04": [
+        "send-11.1.xml",
+        "send-11.1.xml"
+    ],
+    "transport.v.01": [
+        "send-11.1.xml"
+    ],
+    "transport.v.04": [
+        "send-11.1.xml"
+    ],
+    "export.v.01": [
+        "send-11.1.xml"
+    ],
+    "import.v.01": [
+        "send-11.1.xml"
+    ],
+    "transship.v.01": [
+        "send-11.1.xml"
+    ],
+    "sever.v.01": [
+        "separate-23.1.xml"
+    ],
+    "settle.v.03": [
+        "settle-89.xml"
+    ],
+    "agree.v.01": [
+        "settle-89.xml"
+    ],
+    "bargain.v.02": [
+        "settle-89.xml"
+    ],
+    "accept.v.03": [
+        "settle-89.xml"
+    ],
+    "cohere.v.02": [
+        "settle-89.xml"
+    ],
+    "match.v.01": [
+        "settle-89.xml"
+    ],
+    "square.v.03": [
+        "settle-89.xml"
+    ],
+    "conclude.v.03": [
+        "settle-89.xml"
+    ],
+    "covenant.v.01": [
+        "settle-89.xml"
+    ],
+    "covenant.v.02": [
+        "settle-89.xml"
+    ],
+    "behold.v.01": [
+        "sight-30.2.xml"
+    ],
+    "descry.v.01": [
+        "sight-30.2.xml",
+        "sight-30.2.xml",
+        "sight-30.2.xml",
+        "sight-30.2.xml"
+    ],
+    "know.v.05": [
+        "sight-30.2.xml"
+    ],
+    "eye.v.01": [
+        "sight-30.2.xml"
+    ],
+    "glimpse.v.01": [
+        "sight-30.2.xml"
+    ],
+    "spot.v.02": [
+        "sight-30.2.xml",
+        "sight-30.2.xml"
+    ],
+    "notice.v.02": [
+        "sight-30.2.xml"
+    ],
+    "note.v.03": [
+        "sight-30.2.xml",
+        "sight-30.2.xml"
+    ],
+    "note.v.04": [
+        "sight-30.2.xml"
+    ],
+    "observe.v.08": [
+        "sight-30.2.xml"
+    ],
+    "catch.v.14": [
+        "sight-30.2.xml"
+    ],
+    "perceive.v.01": [
+        "sight-30.2.xml"
+    ],
+    "peruse.v.01": [
+        "sight-30.2.xml"
+    ],
+    "pick.v.01": [
+        "sight-30.2.xml"
+    ],
+    "greet.v.01": [
+        "sight-30.2.xml"
+    ],
+    "regard.v.02": [
+        "sight-30.2.xml"
+    ],
+    "savor.v.03": [
+        "sight-30.2.xml"
+    ],
+    "spy.v.03": [
+        "sight-30.2.xml"
+    ],
+    "spot.v.06": [
+        "sight-30.2.xml"
+    ],
+    "watch.v.03": [
+        "sight-30.2.xml",
+        "sight-30.2.xml"
+    ],
+    "watch.v.01": [
+        "sight-30.2.xml"
+    ],
+    "watch.v.04": [
+        "sight-30.2.xml"
+    ],
+    "watch.v.05": [
+        "sight-30.2.xml"
+    ],
+    "watch.v.06": [
+        "sight-30.2.xml"
+    ],
+    "witness.v.01": [
+        "sight-30.2.xml"
+    ],
+    "witness.v.02": [
+        "sight-30.2.xml"
+    ],
+    "wear.v.09": [
+        "simple_dressing-41.3.1.xml",
+        "simple_dressing-41.3.1.xml"
+    ],
+    "doff.v.01": [
+        "simple_dressing-41.3.1.xml"
+    ],
+    "wear.v.01": [
+        "simple_dressing-41.3.1.xml"
+    ],
+    "wear.v.02": [
+        "simple_dressing-41.3.1.xml"
+    ],
+    "be_active.v.01": [
+        "slide-11.2.xml"
+    ],
+    "reek.v.02": [
+        "smell_emission-43.3.xml",
+        "smell_emission-43.3.xml"
+    ],
+    "nap.v.01": [
+        "snooze-40.4.xml",
+        "snooze-40.4.xml"
+    ],
+    "snooze.v.01": [
+        "snooze-40.4.xml",
+        "snooze-40.4.xml",
+        "snooze-40.4.xml"
+    ],
+    "sleep.v.01": [
+        "snooze-40.4.xml",
+        "snooze-40.4.xml"
+    ],
+    "resound.v.01": [
+        "sound_existence-47.4.xml",
+        "sound_existence-47.4.xml",
+        "sound_existence-47.4.xml"
+    ],
+    "resonate.v.01": [
+        "sound_existence-47.4.xml"
+    ],
+    "sound.v.06": [
+        "sound_existence-47.4.xml"
+    ],
+    "bayonet.v.01": [
+        "spank-18.3.xml"
+    ],
+    "belt.v.02": [
+        "spank-18.3.xml"
+    ],
+    "pummel.v.01": [
+        "spank-18.3.xml",
+        "spank-18.3.xml"
+    ],
+    "birch.v.01": [
+        "spank-18.3.xml"
+    ],
+    "club.v.03": [
+        "spank-18.3.xml",
+        "spank-18.3.xml"
+    ],
+    "brain.v.02": [
+        "spank-18.3.xml"
+    ],
+    "bump.v.01": [
+        "spank-18.3.xml"
+    ],
+    "cane.v.01": [
+        "spank-18.3.xml",
+        "spank-18.3.xml"
+    ],
+    "clobber.v.01": [
+        "spank-18.3.xml"
+    ],
+    "clout.v.01": [
+        "spank-18.3.xml"
+    ],
+    "conk.v.02": [
+        "spank-18.3.xml"
+    ],
+    "cosh.v.01": [
+        "spank-18.3.xml"
+    ],
+    "crack.v.04": [
+        "spank-18.3.xml"
+    ],
+    "grind.v.05": [
+        "spank-18.3.xml"
+    ],
+    "cudgel.v.01": [
+        "spank-18.3.xml"
+    ],
+    "cuff.v.01": [
+        "spank-18.3.xml"
+    ],
+    "elbow.v.02": [
+        "spank-18.3.xml"
+    ],
+    "flagellate.v.01": [
+        "spank-18.3.xml"
+    ],
+    "flog.v.01": [
+        "spank-18.3.xml",
+        "spank-18.3.xml",
+        "spank-18.3.xml"
+    ],
+    "slash.v.03": [
+        "spank-18.3.xml"
+    ],
+    "spank.v.01": [
+        "spank-18.3.xml",
+        "spank-18.3.xml"
+    ],
+    "slam.v.04": [
+        "spank-18.3.xml"
+    ],
+    "thrash.v.01": [
+        "spank-18.3.xml"
+    ],
+    "thrash.v.06": [
+        "spank-18.3.xml"
+    ],
+    "thud.v.01": [
+        "spank-18.3.xml"
+    ],
+    "whip.v.04": [
+        "spank-18.3.xml"
+    ],
+    "whisk.v.03": [
+        "spank-18.3.xml"
+    ],
+    "horsewhip.v.01": [
+        "spank-18.3.xml"
+    ],
+    "bend.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "flex.v.05": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "squat.v.01": [
+        "spatial_configuration-47.6.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "dangle.v.01": [
+        "spatial_configuration-47.6.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "dangle.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "fly.v.10": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "hang.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "hang.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "hang.v.10": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "hang.v.12": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "hang.v.13": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "hang.v.14": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "hang.v.15": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "stick_out.v.01": [
+        "spatial_configuration-47.6.xml",
+        "spatial_configuration-47.6.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "lean.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "lie.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "lie.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "droop.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "brood.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "lounge.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "perch.v.01": [
+        "spatial_configuration-47.6.xml",
+        "spatial_configuration-47.6.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "perch.v.03": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "plank.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "project.v.10": [
+        "spatial_configuration-47.6.xml",
+        "throw-17.1.xml"
+    ],
+    "lean_back.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "recumb.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "rest.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "rest.v.07": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "rest.v.08": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "rise.v.04": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "sag.v.01": [
+        "spatial_configuration-47.6.xml",
+        "spatial_configuration-47.6.xml"
+    ],
+    "sag.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "sit.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "sit.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "slope.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "sprawl.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "squat.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "stand.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "stand.v.10": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "stoop.v.04": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "straddle.v.01": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "loom.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "gape.v.02": [
+        "spatial_configuration-47.6.xml"
+    ],
+    "serve.v.09": [
+        "spend_time-104.xml"
+    ],
+    "misspend.v.01": [
+        "spend_time-104.xml"
+    ],
+    "blow.v.14": [
+        "split-23.2.xml"
+    ],
+    "cut.v.01": [
+        "split-23.2.xml"
+    ],
+    "cut.v.25": [
+        "split-23.2.xml"
+    ],
+    "hack.v.03": [
+        "split-23.2.xml"
+    ],
+    "hew.v.02": [
+        "split-23.2.xml"
+    ],
+    "kick.v.01": [
+        "split-23.2.xml"
+    ],
+    "knock.v.01": [
+        "split-23.2.xml"
+    ],
+    "saw.v.01": [
+        "split-23.2.xml"
+    ],
+    "thrust.v.02": [
+        "split-23.2.xml"
+    ],
+    "slip.v.05": [
+        "split-23.2.xml"
+    ],
+    "sliver.v.03": [
+        "split-23.2.xml"
+    ],
+    "overload.v.03": [
+        "spray-9.7.xml"
+    ],
+    "overload.v.01": [
+        "spray-9.7.xml"
+    ],
+    "stalk.v.03": [
+        "stalk-35.3.xml"
+    ],
+    "feel.v.07": [
+        "stimulus_subject-30.4.xml"
+    ],
+    "feel.v.12": [
+        "stimulus_subject-30.4.xml"
+    ],
+    "look.v.02": [
+        "stimulus_subject-30.4.xml"
+    ],
+    "look.v.03": [
+        "stimulus_subject-30.4.xml"
+    ],
+    "look.v.09": [
+        "stimulus_subject-30.4.xml"
+    ],
+    "sound.v.03": [
+        "stimulus_subject-30.4.xml"
+    ],
+    "smack.v.03": [
+        "stimulus_subject-30.4.xml"
+    ],
+    "end.v.02": [
+        "stop-55.4.xml"
+    ],
+    "end.v.01": [
+        "stop-55.4.xml"
+    ],
+    "end.v.03": [
+        "stop-55.4.xml"
+    ],
+    "repeat.v.05": [
+        "stop-55.4.xml"
+    ],
+    "disenfranchise.v.01": [
+        "subjugate-42.3.xml"
+    ],
+    "enslave.v.01": [
+        "subjugate-42.3.xml"
+    ],
+    "throng.v.01": [
+        "subjugate-42.3.xml"
+    ],
+    "nourish.v.01": [
+        "subjugate-42.3.xml"
+    ],
+    "quench.v.01": [
+        "subjugate-42.3.xml"
+    ],
+    "suffocate.v.02": [
+        "suffocate-40.7.xml",
+        "suffocate-40.7.xml",
+        "suffocate-40.7.xml"
+    ],
+    "choke.v.01": [
+        "suffocate-40.7.xml"
+    ],
+    "choke.v.02": [
+        "suffocate-40.7.xml"
+    ],
+    "choke.v.03": [
+        "suffocate-40.7.xml"
+    ],
+    "choke.v.04": [
+        "suffocate-40.7.xml"
+    ],
+    "gag.v.05": [
+        "suffocate-40.7.xml",
+        "suffocate-40.7.xml"
+    ],
+    "gag.v.06": [
+        "suffocate-40.7.xml"
+    ],
+    "drown.v.03": [
+        "suffocate-40.7.xml"
+    ],
+    "smother.v.03": [
+        "suffocate-40.7.xml"
+    ],
+    "suffocate.v.05": [
+        "suffocate-40.7.xml"
+    ],
+    "suspect.v.03": [
+        "suspect-81.xml"
+    ],
+    "accuse.v.01": [
+        "suspect-81.xml"
+    ],
+    "condemn.v.03": [
+        "suspect-81.xml"
+    ],
+    "sentence.v.01": [
+        "suspect-81.xml"
+    ],
+    "sustain.v.04": [
+        "sustain-55.6.xml",
+        "sustain-55.6.xml",
+        "sustain-55.6.xml"
+    ],
+    "prolong.v.02": [
+        "sustain-55.6.xml",
+        "sustain-55.6.xml"
+    ],
+    "prolong.v.01": [
+        "sustain-55.6.xml"
+    ],
+    "talk.v.02": [
+        "talk-37.5.xml",
+        "talk-37.5.xml"
+    ],
+    "talk.v.01": [
+        "talk-37.5.xml",
+        "talk-37.5.xml"
+    ],
+    "hurl.v.01": [
+        "throw-17.1.xml"
+    ],
+    "discard.v.01": [
+        "throw-17.1.xml"
+    ],
+    "chart.v.01": [
+        "transcribe-25.4.xml"
+    ],
+    "graph.v.01": [
+        "transcribe-25.4.xml"
+    ],
+    "chronicle.v.01": [
+        "transcribe-25.4.xml"
+    ],
+    "document.v.01": [
+        "transcribe-25.4.xml"
+    ],
+    "duplicate.v.03": [
+        "transcribe-25.4.xml"
+    ],
+    "film.v.01": [
+        "transcribe-25.4.xml"
+    ],
+    "film.v.02": [
+        "transcribe-25.4.xml"
+    ],
+    "microfilm.v.01": [
+        "transcribe-25.4.xml"
+    ],
+    "photocopy.v.01": [
+        "transcribe-25.4.xml"
+    ],
+    "photograph.v.01": [
+        "transcribe-25.4.xml"
+    ],
+    "record.v.02": [
+        "transcribe-25.4.xml",
+        "transcribe-25.4.xml"
+    ],
+    "videotape.v.01": [
+        "transcribe-25.4.xml",
+        "transcribe-25.4.xml"
+    ],
+    "transcribe.v.01": [
+        "transcribe-25.4.xml"
+    ],
+    "transliterate.v.01": [
+        "transcribe-25.4.xml"
+    ],
+    "transcribe.v.03": [
+        "transcribe-25.4.xml"
+    ],
+    "transcribe.v.04": [
+        "transcribe-25.4.xml"
+    ],
+    "try.v.01": [
+        "try-61.xml",
+        "try-61.xml"
+    ],
+    "intend.v.01": [
+        "try-61.xml",
+        "wish-62.xml",
+        "wish-62.xml"
+    ],
+    "metamorphose.v.01": [
+        "turn-26.6.1.xml"
+    ],
+    "morph.v.01": [
+        "turn-26.6.1.xml"
+    ],
+    "morph.v.02": [
+        "turn-26.6.1.xml"
+    ],
+    "transform.v.02": [
+        "turn-26.6.1.xml",
+        "turn-26.6.1.xml"
+    ],
+    "transform.v.03": [
+        "turn-26.6.1.xml",
+        "turn-26.6.1.xml"
+    ],
+    "transmute.v.03": [
+        "turn-26.6.1.xml"
+    ],
+    "warn.v.02": [
+        "urge-58.1.xml"
+    ],
+    "caution.v.01": [
+        "urge-58.1.xml"
+    ],
+    "rede.v.02": [
+        "urge-58.1.xml"
+    ],
+    "propose.v.01": [
+        "urge-58.1.xml"
+    ],
+    "badger.v.02": [
+        "urge-58.1.xml"
+    ],
+    "extort.v.01": [
+        "urge-58.1.xml"
+    ],
+    "extort.v.02": [
+        "urge-58.1.xml"
+    ],
+    "lobby.v.01": [
+        "urge-58.1.xml"
+    ],
+    "recommend.v.01": [
+        "urge-58.1.xml"
+    ],
+    "exert.v.01": [
+        "use-105.xml"
+    ],
+    "wield.v.01": [
+        "use-105.xml"
+    ],
+    "exploit.v.01": [
+        "use-105.xml"
+    ],
+    "exploit.v.02": [
+        "use-105.xml"
+    ],
+    "recycle.v.02": [
+        "use-105.xml"
+    ],
+    "balloon.v.01": [
+        "vehicle-51.4.1.xml"
+    ],
+    "boat.v.01": [
+        "vehicle-51.4.1.xml"
+    ],
+    "bobsled.v.01": [
+        "vehicle-51.4.1.xml"
+    ],
+    "bus.v.01": [
+        "vehicle-51.4.1.xml"
+    ],
+    "bus.v.02": [
+        "vehicle-51.4.1.xml"
+    ],
+    "chariot.v.01": [
+        "vehicle-51.4.1.xml"
+    ],
+    "chariot.v.02": [
+        "vehicle-51.4.1.xml"
+    ],
+    "coach.v.02": [
+        "vehicle-51.4.1.xml"
+    ],
+    "ferry.v.02": [
+        "vehicle-51.4.1.xml"
+    ],
+    "ferry.v.03": [
+        "vehicle-51.4.1.xml"
+    ],
+    "jet.v.02": [
+        "vehicle-51.4.1.xml"
+    ],
+    "chute.v.01": [
+        "vehicle-51.4.1.xml"
+    ],
+    "punt.v.02": [
+        "vehicle-51.4.1.xml"
+    ],
+    "rocket.v.02": [
+        "vehicle-51.4.1.xml"
+    ],
+    "sledge.v.02": [
+        "vehicle-51.4.1.xml"
+    ],
+    "sledge.v.01": [
+        "vehicle-51.4.1.xml"
+    ],
+    "sled.v.01": [
+        "vehicle-51.4.1.xml"
+    ],
+    "taxi.v.02": [
+        "vehicle-51.4.1.xml"
+    ],
+    "yacht.v.01": [
+        "vehicle-51.4.1.xml"
+    ],
+    "invalidate.v.01": [
+        "void-106.xml",
+        "void-106.xml",
+        "void-106.xml",
+        "void-106.xml",
+        "void-106.xml",
+        "void-106.xml"
+    ],
+    "repress.v.01": [
+        "void-106.xml"
+    ],
+    "invalidate.v.04": [
+        "void-106.xml"
+    ],
+    "boogie.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "bop.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "clog.v.02": [
+        "waltz-51.5.xml"
+    ],
+    "conga.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "dance.v.02": [
+        "waltz-51.5.xml"
+    ],
+    "foxtrot.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "jig.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "jitterbug.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "jive.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "pirouette.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "polka.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "quickstep.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "rhumba.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "samba.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "tango.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "tapdance.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "waltz.v.01": [
+        "waltz-51.5.xml"
+    ],
+    "covet.v.01": [
+        "want-32.1.xml"
+    ],
+    "crave.v.01": [
+        "want-32.1.xml"
+    ],
+    "vacation.v.01": [
+        "weekend-56.xml",
+        "weekend-56.xml"
+    ],
+    "honeymoon.v.01": [
+        "weekend-56.xml"
+    ],
+    "junketeer.v.01": [
+        "weekend-56.xml"
+    ],
+    "sojourn.v.01": [
+        "weekend-56.xml"
+    ],
+    "summer.v.01": [
+        "weekend-56.xml"
+    ],
+    "weekend.v.01": [
+        "weekend-56.xml"
+    ],
+    "winter.v.01": [
+        "weekend-56.xml"
+    ],
+    "filter.v.01": [
+        "wipe_instr-10.4.2.xml"
+    ],
+    "vacuum.v.01": [
+        "wipe_instr-10.4.2.xml"
+    ],
+    "iron.v.01": [
+        "wipe_instr-10.4.2.xml"
+    ],
+    "plow.v.01": [
+        "wipe_instr-10.4.2.xml"
+    ],
+    "sandpaper.v.01": [
+        "wipe_instr-10.4.2.xml"
+    ],
+    "sponge.v.01": [
+        "wipe_instr-10.4.2.xml"
+    ],
+    "sponge.v.03": [
+        "wipe_instr-10.4.2.xml"
+    ],
+    "squeegee.v.01": [
+        "wipe_instr-10.4.2.xml"
+    ],
+    "ask.v.04": [
+        "wish-62.xml"
+    ],
+    "wish.v.02": [
+        "wish-62.xml"
+    ],
+    "hope.v.01": [
+        "wish-62.xml"
+    ],
+    "hope.v.03": [
+        "wish-62.xml"
+    ],
+    "plan.v.01": [
+        "wish-62.xml"
+    ],
+    "aim.v.02": [
+        "wish-62.xml",
+        "wish-62.xml"
+    ],
+    "think.v.02": [
+        "wish-62.xml",
+        "wish-62.xml"
+    ],
+    "dream.v.01": [
+        "wish-62.xml"
+    ],
+    "ache.v.02": [
+        "wish-62.xml"
+    ]
+}
