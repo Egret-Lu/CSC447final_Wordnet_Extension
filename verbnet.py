@@ -17,10 +17,10 @@ import json
 #     except:
 #         return None
 class VerbnetClass():
-'''
-Each accord with one verbnet class
-all index can be seen on https://uvi.colorado.edu/class_hierarchy
-'''
+    '''
+    Each accord with one verbnet class
+    all index can be seen on https://uvi.colorado.edu/class_hierarchy
+    '''
     VN_PATH='new_vn'
     def __init__(self,class_text='accept-77'):
         file=class_text+'.xml'
