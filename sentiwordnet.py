@@ -4,9 +4,13 @@ from nltk.corpus.reader.wordnet import Synset
 from collections import defaultdict
 import os
 import json
+'''
+Corpus from https://github.com/aesuli/SentiWordNet
+'''
 class SentiWordnetCorpusReader():
     """
-    Corpus Reader for SentiWordnet
+    Corpus Reader for SentiWordnetV3.0.0
+
     """
     RESOURCES_FOLDER = 'wordnets'
     SENTIWORDNET_FILE = 'SentiWordNet_3.0.0.json'
@@ -37,7 +41,8 @@ class SentiWordnetCorpusReader():
 
 class MicroWordnetCorpusReader():
     """
-    Corpus Reader for SentiWordnet
+    Corpus Reader for MicroWordnet
+    A dataset of human annotations of WordNet synsets that has been used to evaluate SentiWordNet
     """
     RESOURCES_FOLDER = 'wordnets'
     MICROWORDNET_FILE = 'Micro-WNop-WN3.json'

@@ -9,11 +9,11 @@ from collections import defaultdict
 generate json document for sentiwordnets
 
 format
-{pos+offset:senti scores}
+{name:senti scores}
 
 e.x.: for Synset('overwhelm.v.01')
 
-"v1809321": [0.38,0.38,0.0,1.0]
+"overwhelm.v.01": [0.38,0.38,0.0,1.0]
 '''
 SWNS_PATH='sentiwordnets'
 VN_PATH='new_vn'
@@ -30,7 +30,8 @@ def get_synset(pos,offset):
 
 
 #Verbnet
-#link verb to accorded xml file
+#link verb to accorded xml file lists
+#notice that one verb may accord to multiple classes
 outfile=os.path.join(OUTPUT_PATH,'Verbnet.json')
 vn=defaultdict(list)
 for xml in VN_FILES:
